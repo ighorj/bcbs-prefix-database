@@ -61,7 +61,41 @@ The goal wasn’t just to store prefix data — it was to **build infrastructure
 
 ---
 
-### 2️⃣ Database Storage (PostgreSQL)
+## 2️⃣ Data Ingestion – Initial Web Extraction
+
+The script below demonstrates how I extracted structured prefix information from a payer directory source and wrote it into a CSV file.
+
+```python
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+import re
+from pathlib import Path
+
+# Fetch page (We picked ZAA-TO-ZZZ as an example but that can be done to all others like AAA - AAZ
+html = urlopen(
+    'https://mypayerdirectory.com/bcbs-prefix-list/bcbs-alpha-prefixes-zaa-to-zzz/'   
+)
+soup = BeautifulSoup(html.read(), 'html.parser')
+
+# Find all <td> whose class starts with "column-"
+cells = soup.find_all('td', class_=re.compile(r'^column-'))
+
+# Write extracted text to a .txt file
+path = Path('ZAA-ZZZ2.csv')
+
+with path.open('w', encoding='utf-8') as f:
+    f.write("Prefix,Name\n") 
+
+    for cell in cells:
+        text = cell.get_text(strip=True)
+
+        if text:  # skip empty cells
+            f.write(text + ',\n')
+
+print("Done. Data written")
+```
+
+### 3️⃣ Database Storage (PostgreSQL)
 
 Data was inserted into a structured PostgreSQL table.
 
