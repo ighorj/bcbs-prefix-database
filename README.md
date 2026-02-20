@@ -36,6 +36,29 @@ Key steps:
 - Remove noise (phone numbers, metadata)
 - Validate prefix format (3-character alphanumeric)
 
+## Why I built this ?
+
+
+I built this project after repeatedly seeing how often BCBS prefixes are misidentified in real-world workflows — especially in companies that are integrating AI into their intake and insurance verification processes.
+
+In practice, clinics and front-desk staff frequently enter the wrong BCBS location. And not just occasionally — it happens a lot. The issue is that “BCBS” isn’t a single entity. Each three-character prefix corresponds to a specific regional payer, and that distinction matters for eligibility checks, claims routing, reimbursement logic, and downstream automation.
+
+AI systems struggle when the underlying data is inconsistent or ambiguous. If the prefix-to-payer mapping isn’t structured, normalized, and queryable, the AI layer ends up inheriting human error instead of correcting it.
+
+This project creates a clean, indexed, structured BCBS prefix database that can be integrated directly into AI-driven workflows. By doing so, it allows companies to:
+
+Validate prefixes automatically
+
+Correct misidentified payers
+
+Route claims more accurately
+
+Reduce manual rework and denials
+
+Improve training data quality for AI systems
+
+The goal wasn’t just to store prefix data — it was to build infrastructure that reduces preventable operational errors and makes AI systems more reliable in real healthcare environments.
+
 ---
 
 ### 2️⃣ Database Storage (PostgreSQL)
