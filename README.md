@@ -48,9 +48,13 @@ AI systems struggle when the underlying data is inconsistent or ambiguous. If th
 This project creates a clean, indexed, structured BCBS prefix database that can be integrated directly into AI-driven workflows. By doing so, it allows companies to:
 
 **Validate prefixes automatically**
+
 **Correct misidentified payers**
+
 **Route claims more accurately**
+
 **Reduce manual rework and denials**
+
 **Improve training data quality for AI systems**
 
 The goal wasn’t just to store prefix data — it was to **build infrastructure that reduces preventable operational errors and makes AI systems more reliable in real healthcare environments**.
