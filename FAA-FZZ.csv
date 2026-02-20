@@ -1,0 +1,710 @@
+BCBS_Name,Acronym
+Blue Cross Blue Shield of Texas,F2B
+Horizon Blue Cross Blue Shield of New Jersey,F2F
+Regence Blue Cross Blue Shield of Oregon,F2G
+Premera Blue Cross,F2K
+Blue Cross Blue Shield of Illinois,F2L
+Blue Cross of Idaho,F2M
+Blue Cross Blue Shield of Illinois,F2N
+Anthem Blue Cross of California,F2P
+Blue Cross Blue Shield of Rhode Island,F2S
+Anthem BCBS of Ohio,F2T
+Blue Cross Blue Shield of Illinois,F2W
+Premera Blue Cross,F3B
+Highmark BCBS of Pennsylvania,F3C
+Blue Cross Blue Shield of Texas,F3E
+Blue Cross Blue Shield of Illinois,F3F
+Blue Cross Blue Shield of Illinois,F3M
+Highmark BCBS of Pennsylvania,F3P
+Anthem BCBS of Virginia,F4A
+Blue Cross Blue Shield of Texas,F4C
+Blue Cross Blue Shield of Texas,F4F
+Blue Cross Blue Shield of Minnesota,F4G
+Horizon Blue Cross Blue Shield of New Jersey,F4S
+Florida Blue,F4W
+Blue Cross Blue Shield of Minnesota,F5A
+Horizon BCBS of New Jersey,F5Z
+Anthem BCBS of Indiana,F6A
+Blue Cross Blue Shield of Illinois,F6G
+Blue Cross Blue Shield of Texas,F7F
+Blue Cross Blue Shield of Illinois,F7G
+Anthem BCBS of Ohio,F9S
+Horizon Blue Cross Blue Shield of New Jersey,F9T
+Anthem BCBS of Ohio,FAA
+BCBS of Alabama,FAB
+BCBS of Vermont,FAC
+BCBS of Illinois,FAD
+BCBS of Rhose Island,FAE
+Carefirst BCBS of Maryland,FAF
+Unassigned Prefix,FAG
+BCBS of Vermont,FAH
+Anthem Blue Cross of California,FAI
+Anthem BCBS of Georgia,FAJ
+Anthem BCBS of Georgia,FAK
+Anthem Blue Cross of California,FAL
+Wellmark BCBS,FAM
+Blue Shield of California,FAN
+BCBS of Vermont,FAO
+Anthem BCBS of Virginia,FAP
+BCBS of North Carolina,FAQ
+Anthem Blue Cross of California,FAR
+Anthem Blue Cross of California,FAS
+Unassigned Prefix,FAT
+Anthem BCBS of Virginia,FAU
+Anthem BCBS of Ohio,FAV
+BCBS of Georgia,FAW
+BCBS of Illinois,FAX
+BCBS of Georgia,FAY
+BCBS of South Carolina,FAZ
+BCBS of Western New York,FBA
+Anthem Blue Cross of California,FBB
+Wellmark BCBS,FBC
+Anthem BCBS of Ohio,FBD
+Unassigned Prefix,FBE
+Anthem BCBS of Georgia,FBF
+BCBS of Minnesota,FBG
+BCBS of Florida,FBH
+BCBS of Alabama,FBI
+Anthem BCBS of Ohio,FBJ
+Capital Blue Cross,FBK
+BCBS of Georgia,FBL
+BCBS of Kansas City,FBM
+BCBS of South Carolina,FBN
+BCBS of Minnesota,FBO
+BCBS of Michigan,FBP
+BCBS of Nebraska,FBQ
+BCBS of Illinois,FBR
+BCBS of Florida,FBS
+Regence BCBS,FBT
+Unassigned Prefix,FBU
+Unassigned Prefix,FBV
+BCBS of Illinois,FBW
+Anthem BCBS of Missouri,FBX
+BCBS of Arkansas,FBY
+BCBS of Michigan,FBZ
+Anthem BCBS of Ohio,FCA
+Unassigned Prefix,FCB
+BCBS of Illinois,FCC
+BCBS of Illinois,FCD
+BCBS of Kansas City,FCE
+Carefirst BCBS of Maryland,FCF
+BCBS of Arkansas Blue Advantage,FCG
+BCBS of South Carolina,FCH
+BCBS of Minnesota,FCI
+Blue Cross of Idaho,FCJ
+Unassigned Prefix,FCK
+BCBS of Nebraska,FCL
+Wellmark BCBS,FCM
+Carefirst BCBS of Maryland,FCN
+BCBS of South Carolina,FCO
+Capital Blue Cross,FCP
+BCBS of Minnesota,FCQ
+Empire BCBS of New York,FCR
+BCBS of Illinois,FCS
+Anthem BCBS of Nevada,FCT
+BCBS of Illinois,FCU
+Unassigned Prefix,FCV
+BCBS of Michigan,FCW
+BCBS of Alabama,FCX
+Anthem BCBS of Michigan,FCY
+BCBS of South Carolina,FCZ
+BCBS of Michigan,FDA
+BCBS of Michigan,FDB
+BCBS of Illinois,FDC
+Empire BCBS of New York,FDD
+BCBS of Illinois,FDE
+Highmark BCBS,FDF
+BCBS of Illinois,FDG
+Highmark BCBS,FDH
+Blue Shield of California,FDI
+BCBS of Florida,FDJ
+Anthem BCBS of Georgia,FDK
+BCBS of South Carolina,FDL
+Empire BCBS of New York,FDM
+Wellmark BCBS,FDN
+BCBS of North Carolina,FDO
+Regence Blue Cross Blue Shield of Oregon,FDP
+Wellmark BCBS,FDQ
+BCBS of Georgia,FDR
+Anthem Blue Cross of California,FDS
+Empire BCBS of New York,FDT
+Anthem BCBS of Ohio,FDU
+Highmark BCBS,FDV
+Anthem BCBS of Colorado,FDW
+BCBS of Tennessee,FDX
+Unassigned Prefix,FDY
+Blue Shield of California,FDZ
+BCBS of South Carolina,FEA
+BCBS of Kansas City,FEB
+Anthem BCBS of Virginia,FEC
+Carefirst BCBS of Maryland,FED
+BCBS of Florida,FEE
+Anthem BCBS of Indiana,FEF
+Carefirst BCBS of Maryland,FEG
+Highmark BCBS,FEH
+Regence Blue Cross Blue Shield of Oregon,FEI
+Anthem BCBS of Missouri,FEJ
+BCBS of Alabama,FEK
+Anthem Blue Cross of California,FEL
+Highmark BCBS,FEM
+Unassigned Prefix,FEN
+Horizon BCBS of New Jersey,FEO
+Unassigned Prefix,FEP
+Carefirst BCBS of Maryland,FEQ
+Highmark BCBS,FER
+Highmark BCBS,FES
+BCBS of Michigan,FET
+Carefirst BCBS of Maryland,FEU
+Unassigned Prefix,FEV
+Anthem Blue Cross of California,FEW
+Anthem Blue Cross of California,FEX
+BCBS of Georgia,FEY
+Anthem BCBS of Ohio,FEZ
+BCBS of Michigan,FFA
+BCBS of Nebraska,FFB
+Highmark BCBS,FFC
+BCBS of South Carolina,FFD
+Anthem BCBS of Georgia,FFE
+BCBS of Minnesota,FFF
+Wellmark BCBS,FFG
+BCBS of Massachusetts,FFH
+Independence Blue Cross,FFI
+BCBS of Georgia,FFJ
+BCBS of South Carolina,FFK
+Wellmark BCBS,FFL
+BCBS of Texas,FFM
+BCBS of Oklahoma,FFN
+Anthem BCBS of Georgia,FFO
+BCBS of Tennessee,FFP
+BCBS of Illinois,FFQ
+Highmark BCBS,FFR
+Anthem Blue Cross of California,FFS
+BCBS of Tennessee,FFT
+BCBS of Florida,FFU
+Anthem BCBS of Missouri,FFV
+Anthem BCBS of Colorado,FFW
+Anthem Blue Cross of California,FFX
+Regence Blue Cross Blue Shield of Oregon,FFY
+BCBS of Texas,FFZ
+Unassigned Prefix,FGA
+Anthem BCBS of Wisconsin,FGB
+BCBS of Massachusetts,FGC
+Anthem BCBS of Ohio,FGD
+BCBS of South Carolina,FGE
+BCBS of Minnesota,FGF
+BCBS of Florida,FGG
+FGH,8/29/2020
+FGI,BCBS of Minnesota
+start here,Anthem BCBS of Ohio
+Anthem BCBS of Indiana,FGJ
+Carefirst BCBS of Maryland,FGK
+BCBS of Texas,FGL
+Anthem Blue Cross of California,FGM
+Anthem BCBS of Georgia,FGN
+Anthem Blue Cross of California,FGO
+BCBS of Michigan,FGP
+BCBS of South Carolina,FGQ
+BCBS of Alabama,FGR
+BCBS of Michigan,FGS
+Highmark BCBS,FGT
+BCBS of Michigan,FGU
+Anthem BCBS of Ohio,FGV
+BCBS of Alabama,FGW
+Blue Shield of Northeastern New York,FGX
+Wellmark BCBS,FGY
+Anthem BCBS of Missouri,FGZ
+BCBS of Illinois,FHA
+BCBS of  Massachusetts,FHB
+BCBS of Michigan,FHC
+BCBS of Nebraska,FHD
+BCBS of Nebraska,FHE
+Carefirst BCBS of Maryland,FHF
+Wellmark BCBS,FHG
+BCBS of Massachusetts,FHH
+BCBS of Michigan,FHI
+BCBS of Florida,FHJ
+Blue Shield of California,FHK
+BCBS of Illinois,FHL
+Anthem BCBS of Ohio,FHM
+BCBS of Michigan,FHN
+Anthem BCBS of Ohio,FHO
+Anthem BCBS of Georgia,FHP
+Anthem BCBS of Missouri,FHQ
+Highmark BCBS,FHR
+Blue Cross of Idaho,FHS
+Regence BCBS,FHT
+Premera Blue Cross,FHU
+Wellmark BCBS,FHV
+BCBS of Florida,FHW
+BCBS of Minnesota,FHX
+BCBS of Massachusetts,FHY
+Blue Shield of California,FHZ
+Anthem BCBS of Wisconsin,FIA
+BCBS of Massachusetts,FIB
+Anthem BCBS of Georgia,FIC
+BCBS of Nebraska,FID
+BCBS of Michigan,FIE
+Highmark BCBS,FIF
+BCBS of Tennessee,FIG
+BCBS of Tennessee,FIH
+BCBS of Alabama,FII
+BCBS of Michigan,FIJ
+Wellmark BCBS,FIK
+BCBS of Michigan,FIL
+Wellmark BCBS,FIM
+Anthem BCBS of Ohio,FIN
+BCBS of Michigan,FIO
+Blue Cross of Idaho,FIP
+BCBS of Michigan,FIQ
+Premera Blue Cross,FIR
+BCBS of North Carolina,FIS
+Premera Blue Cross,FIT
+BCBS of Michigan,FIU
+Anthem BCBS of Colorado,FIV
+Unassigned Prefix,FIW
+Anthem BCBS of Ohio,FIX
+Anthem BCBS of Wisconsin,FIY
+BCBS of Florida,FIZ
+Anthem BCBS of Georgia,FJA
+Anthem BCBS of Georgia,FJB
+BCBS of Illinois,FJC
+Anthem BCBS of Georgia,FJD
+Anthem BCBS of Georgia,FJE
+Anthem BCBS of Georgia,FJF
+Unassigned Prefix,FJG
+Regence Blue Cross Blue Shield of Utah,FJH
+Wellmark BCBS,FJI
+Anthem Blue Cross of California,FJJ
+Unassigned Prefix,FJK
+BCBS of Nebraska,FJL
+Independence Blue Cross,FJM
+BCBS of Illinois,FJN
+Independence Blue Cross,FJO
+BCBS of Minnesota,FJP
+Anthem BCBS of Georgia,FJQ
+Highmark BCBS,FJR
+BCBS of Massachusetts,FJS
+BCBS of Tennessee,FJT
+Anthem BCBS of Georgia,FJU
+Anthem BCBS of Georgia,FJV
+BCBS of Rhose Island,FJW
+Anthem BCBS of Georgia,FJX
+Wellmark BCBS,FJY
+Anthem Blue Cross of California,FJZ
+BCBS of Illinois,FKA
+Carefirst BCBS of Maryland,FKB
+Unassigned Prefix,FKC
+Wellmark BCBS,FKD
+BCBS of Michigan,FKE
+BCBS of Louisiana,FKF
+Unassigned Prefix,FKG
+Unassigned Prefix,FKH
+Carefirst BCBS of Maryland,FKI
+Unassigned Prefix,FKJ
+Premera Blue Cross,FKK
+Carefirst BCBS of Maryland,FKL
+Highmark BCBS,FKM
+Highmark BCBS,FKN
+BCBS of South Carolina,FKO
+Anthem Blue Cross of California,FKP
+Capital Blue Cross,FKQ
+Anthem Blue Cross of California,FKR
+Anthem BCBS of Georgia,FKS
+BCBS of Minnesota,FKT
+BCBS of Louisiana,FKU
+Wellmark BCBS,FKV
+BCBS of North Carolina,FKW
+Carefirst BCBS of Maryland,FKX
+BCBS of Louisiana,FKY
+Carefirst BCBS of Maryland,FKZ
+Anthem BCBS of Georgia,FLA
+BCBS of Minnesota,FLB
+Unassigned Prefix,FLC
+Wellmark BCBS,FLD
+BCBS of Minnesota,FLE
+BCBS of North Carolina,FLF
+BCBS of South Carolina,FLG
+BCBS of Arizona,FLH
+BCBS of Georgia,FLI
+BCBS of Nebraska,FLJ
+BCBS of Illinois,FLK
+Blue Cross of California,FLL
+Wellmark BCBS,FLM
+Blue Shield of Northeastern New York,FLN
+Anthem BCBS of Georgia,FLO
+Horizon BCBS of New Jersey,FLP
+BCBS of South Carolina,FLQ
+BCBS of Minnesota,FLR
+Anthem BCBS of Georgia,FLS
+BCBS of South Carolina,FLT
+Unassigned Prefix,FLU
+BCBS of Texas,FLV
+Anthem BCBS of Colorado,FLW
+Wellmark BCBS,FLX
+Antehm BCBS of Georgia,FLY
+Anthem Blue Cross of California,FLZ
+BCBS of Michigan,FMA
+BCBS of Illinois,FMB
+BCBS of Massachusetts,FMC
+BCBS of Massachusetts,FMD
+Blue Cross of Idaho,FME
+BCBS of Illinois,FMF
+BCBS of Minnesota,FMG
+Carefirst BCBS of Maryland,FMH
+Blue Shield of California,FMI
+Empire BCBS of New York,FMJ
+Carefirst Administrators,FMK
+BCBS of Michigan,FML
+BCBS of Michigan,FMM
+Anthem BCBS of Virginia,FMN
+BCBS of Alabama,FMO
+Unassigned Prefix,FMP
+Unassigned Prefix,FMQ
+Premera Blue Cross,FMR
+BCBS of Texas,FMS
+BCBS of Illinois,FMT
+BCBS of Massachusetts,FMU
+BCBS of Michigan,FMV
+Regence Blue Shield of Idaho,FMW
+BCBS of Minnesota,FMX
+BCBS of Georgia,FMY
+Unassigned Prefix,FMZ
+BCBS of Texas,FNA
+Anthem BCBS of Georgia,FNB
+BCBS of Texas,FNC
+BCBS of Michigan,FND
+Anthem BCBS of Ohio,FNE
+Carefirst BCBS of Maryland,FNF
+BCBS of Illinois,FNG
+Unassigned Prefix,FNH
+Carefirst BCBS of Maryland,FNI
+Anthem BCBS of Ohio,FNJ
+Unassigned Prefix,FNK
+BCBS of Minnesota,FNL
+BCBS of Massachusetts,FNM
+Regence BCBS,FNN
+BCBS of North Carolina,FNO
+Unassigned Prefix,FNP
+Anthem Blue Cross of California,FNQ
+Anthem BCBS of Kentucky,FNR
+Anthem Blue Cross of California,FNS
+BCBS of Nebraska,FNT
+BCBS of Michigan,FNU
+Anthem BCBS of Georgia,FNV
+BCBS of Georgia,FNW
+Anthem Blue Cross of California,FNX
+BCBS of Nebraska,FNY
+BCBS of Illinois,FNZ
+Premera Blue Cross,FOA
+BCBS of Florida,FOB
+Blue Shield of California,FOC
+BCBS of South Carolina,FOD
+BCBS of Massachusetts,FOE
+Wellmark BCBS,FOF
+BCBS of Minnesota,FOG
+BCBS of South Carolina,FOH
+BCBS of Western New York,FOI
+Independence Blue Cross,FOJ
+BCBS of South Carolina,FOK
+Anthem Blue Cross of California,FOL
+Carefirst BCBS of Maryland,FOM
+BCBS of South Carolina,FON
+Blue Shield of California,FOO
+BCBS of Minnesota,FOP
+Unassigned Prefix,FOQ
+Anthem BCBS of Ohio,FOR
+Anthem BCBS of Virginia,FOS
+Carefirst BCBS of Maryland,FOT
+BCBS of Alabama,FOU
+Horizon BCBS of New Jersey,FOV
+Anthem BCBS of Colorado,FOW
+BCBS of Illinois,FOX
+BCBS of Oklahoma,FOY
+Unassigned Prefix,FOZ
+BCBS of South Carolina,FPA
+BCBS of Alabama,FPB
+BCBS of Illinois,FPC
+Anthem Blue Cross of California,FPD
+Wellmark BCBS,FPE
+Anthem Blue Cross of California,FPF
+Carefirst Administrators,FPG
+Carefirst BCBS of Maryland,FPH
+Anthem Blue Cross of California,FPI
+Highmark BCBS,FPJ
+Blue Shield of California,FPK
+Wellmark BCBS,FPL
+BCBS of Michigan,FPM
+BCBS of Texas,FPN
+Wellmark BCBS,FPO
+BCBS of Western New York,FPP
+Highmark BCBS,FPQ
+Highmark BCBS,FPR
+BCBS of Alabama,FPS
+BCBS of North Carolina,FPT
+Carefirst BCBS of Maryland,FPU
+Blue Shield of California,FPV
+Carefirst BCBS of Maryland,FPW
+Carefirst Administrators,FPX
+BCBS of Illinois,FPY
+Anthem Blue Cross of California,FPZ
+BCBS of Louisiana,FQA
+Unassigned Prefix,FQB
+BCBS of South Carolina,FQC
+Unassigned Prefix,FQD
+BCBS of Nebraska,FQE
+BCBS of Minnesota,FQF
+Unassigned Prefix,FQG
+Anthem BCBS of Georgia,FQH
+Anthem BCBS of Georgia,FQI
+Anthem BCBS of Colorado,FQJ
+BCBS of South Carolina,FQK
+BCBS of Arizona,FQL
+Independence Blue Cross,FQM
+BCBS of Illinois,FQN
+Carefirst BCBS of Maryland,FQO
+BCBS of Minnesota,FQP
+Carefirst BCBS of Maryland,FQQ
+BCBS of Massachusetts,FQR
+Unassigned Prefix,FQS
+Wellmark BCBS,FQT
+Independence Blue Cross,FQU
+Blue Shield of California,FQV
+BCBS of Louisiana,FQW
+Wellmark BCBS,FQX
+Wellmark BCBS,FQY
+BCBS of Minnesota,FQZ
+BCBS of South Carolina,FRA
+BCBS of Illinois,FRB
+Wellmark BCBS,FRC
+Anthem BCBS of Virginia,FRD
+Premera Blue Cross,FRE
+Carefirst BCBS of Maryland,FRF
+BCBS of Texas,FRG
+Anthem BCBS of Wisconsin,FRH
+Blue Shield of California,FRI
+Premera BCBS of Alaska,FRJ
+Anthem Blue Cross of California,FRK
+Blue Shield of California,FRL
+Anthem BCBS of Ohio,FRM
+BCBS of Texas,FRN
+BCBS of Michigan,FRO
+Carefirst BCBS of Maryland,FRP
+BCBS of Michigan,FRQ
+BCBS of South Carolina,FRR
+BCBS of Massachusetts,FRS
+Anthem Blue Cross of California,FRT
+Unassigned Prefix,FRU
+BCBS of Alabama,FRV
+Anthem BCBS of Missouri,FRW
+Anthem Blue Cross of California,FRX
+Blue Shield of California,FRY
+BCBS of Tennessee,FRZ
+BCBS of Massachusetts,FSA
+Anthem BCBS of Wisconsin,FSB
+Independence Blue Cross,FSC
+BCBS of South Carolina,FSD
+Anthem BCBS of Ohio,FSE
+Empire BCBS of New York,FSF
+BCBS of Illinois,FSG
+Premera Blue Cross,FSH
+Regence BCBS,FSI
+BCBS of Arizona,FSJ
+Anthem BCBS of Ohio,FSK
+BCBS of Illinois,FSL
+BCBS of Georgia,FSM
+BCBS of South Carolina,FSN
+BCBS of Florida,FSO
+BCBS of Michigan,FSP
+Unassigned Prefix,FSQ
+Premera Blue Cross,FSR
+BCBS of Alabama,FSS
+BCBS of Massachusetts,FST
+BCBS of Georgia,FSU
+Wellmark BCBS,FSV
+BCBS of Illinois,FSW
+BCBS of South Carolina,FSX
+Unassigned Prefix,FSY
+Unassigned Prefix,FSZ
+Anthem Blue Cross of California,FTA
+Anthem BCBS of Ohio,FTB
+BCBS of Oklahoma,FTC
+BCBS of Illinois,FTD
+Carefirst BCBS of Maryland,FTE
+BCBS of Georgia,FTF
+Unassigned Prefix,FTG
+Wellmark BCBS,FTH
+Unassigned Prefix,FTI
+Anthem BCBS of Virginia,FTJ
+Anthem BCBS of Georgia,FTK
+Anthem BCBS of Georgia,FTL
+BCBS of Georgia,FTM
+Anthem BCBS of Ohio,FTN
+Capital Blue Cross,FTO
+Empire BCBS of New York,FTP
+Anthem BCBS of Ohio,FTQ
+BCBS of South Carolina,FTR
+Anthem BCBS of Ohio,FTS
+Blue Shield of California,FTT
+Anthem Blue Cross of California,FTU
+Blue Cross of Idaho,FTV
+Blue Shield of California,FTW
+BCBS of Massachusetts,FTX
+BCBS of Illinois,FTY
+Anthem BCBS of Virginia,FTZ
+Carefirst BCBS of Maryland,FUA
+Anthem BCBS of Ohio,FUB
+Unassigned Prefix,FUC
+BCBS of South Carolina,FUD
+Anthem BCBS of Wisconsin,FUE
+BCBS of South Carolina,FUF
+BCBS of Texas,FUG
+Highmark BCBS,FUH
+Anthem BCBS of Ohio,FUI
+Empire BCBS of New York,FUJ
+Carefirst BCBS of Maryland,FUK
+Anthem BCBS of Missouri,FUL
+Wellmark BCBS,FUM
+BCBS of Illinois,FUN
+BCBS of Florida,FUO
+Unassigned Prefix,FUP
+BCBS of South Carolina,FUQ
+Anthem Blue Cross of California,FUR
+Carefirst Administrators,FUS
+Carefirst BCBS of Maryland,FUT
+Unassigned Prefix,FUU
+BCBS of South Carolina,FUV
+Anthem Blue Cross of California,FUW
+Unassigned Prefix,FUX
+Anthem BCBS of Missouri,FUY
+Unassigned Prefix,FUZ
+Regence BCBS,FVA
+BCBS of Tennessee,FVB
+Independence Blue Cross,FVC
+Unassigned Prefix,FVD
+Carefirst BCBS of Maryland,FVE
+Wellmark BCBS,FVF
+Anthem Blue Cross of California,FVG
+BCBS of Illinois,FVH
+Anthem BCBS of Virginia,FVI
+Unassigned Prefix,FVJ
+Unassigned Prefix,FVK
+BCBS of Illinois,FVL
+Anthem Blue Cross of California,FVM
+BCBS of Michigan,FVN
+Unassigned Prefix,FVO
+Anthem BCBS of Virginia,FVP
+Unassigned Prefix,FVQ
+Unassigned Prefix,FVR
+Blue Shield of California,FVS
+BCBS of Vermont,FVT
+BCBS of Texas,FVU
+BCBS of Michigan,FVV
+Wellmark BCBS,FVW
+BCBS of Illinois,FVX
+Unassigned Prefix,FVY
+Unassigned Prefix,FVZ
+BCBS of Illinois,FWA
+BCBS of Illinois,FWB
+BCBS of Texas,FWC
+BCBS of Illinois,FWD
+Carefirst BCBS of Maryland,FWE
+BCBS of Illinois,FWF
+BCBS of Illinois,FWG
+BCBS of Minnesota,FWH
+Carefirst BCBS of Maryland,FWI
+Anthem BCBS of Virginia,FWJ
+Unassigned Prefix,FWK
+Carefirst BCBS of Maryland,FWL
+BCBS of Illinois,FWM
+BCBS of Florida,FWN
+Carefirst BCBS of Maryland,FWO
+Unassigned Prefix,FWP
+Horizon BCBS of New Jersey,FWQ
+Anthem BCBS of Ohio,FWR
+Wellmark BCBS,FWS
+BCBS of Alabama,FWT
+Unassigned Prefix,FWU
+BCBS of Minnesota,FWV
+BCBS of Massachusetts,FWW
+Wellmark BCBS,FWX
+BCBS of Illinois,FWY
+Anthem BCBS of Virginia,FWZ
+Unassigned Prefix,FXA
+Anthem Blue Cross of California,FXB
+BCBS of Massachusetts,FXC
+Anthem Blue Cross of California,FXD
+Anthem BCBS of Ohio,FXE
+Anthem Blue Cross of California,FXF
+Anthem Blue Cross of California,FXG
+BCBS of Tennessee,FXH
+Anthem Blue Cross of California,FXI
+Wellmark BCBS,FXJ
+Anthem Blue Cross of California,FXK
+Anthem Blue Cross of California,FXL
+Anthem Blue Cross of California,FXM
+Carefirst BCBS of Maryland,FXN
+Carefirst Administrators,FXO
+Highmark BCBS,FXP
+Wellmark BCBS,FXQ
+BCBS of Illinois,FXR
+BCBS of Texas,FXS
+Unassigned Prefix,FXT
+BCBS of Minnesota,FXU
+Carefirst BCBS of Maryland,FXV
+Anthem BCBS of Virginia,FXW
+Carefirst BCBS of Maryland,FXX
+BCBS of Tennessee,FXY
+Anthem Blue Cross of California,FXZ
+BCBS of Massachusetts,FYA
+Highmark BCBS,FYB
+Blue Shield of Northeastern New York,FYC
+Anthem BCBS of Ohio,FYD
+Highmark BCBS,FYE
+BCBS of Minnesota,FYF
+Anthem BCBS of Virginia,FYG
+BCBS of Western New York,FYH
+Unassigned Prefix,FYI
+Anthem BCBS of Virginia,FYJ
+Anthem BCBS of Ohio,FYK
+Carefirst Administrators,FYL
+Highmark BCBS,FYM
+BCBS of Florida,FYN
+Highmark BCBS,FYO
+Independence Blue Cross,FYP
+BCBS of Michigan,FYQ
+BCBS of Massachusetts,FYR
+Wellmark BCBS,FYS
+BCBS of Illinois,FYT
+BCBS of Massachusetts,FYU
+Blue Shield of California,FYV
+BCBS of Minnesota,FYW
+Unassigned Prefix,FYX
+Blue Cross of Idaho,FYY
+BCBS of Florida,FYZ
+BCBS of South Carolina,FZA
+Blue Cross of Idaho,FZB
+Empire BCBS of New York,FZC
+BCBS of Michigan,FZD
+Anthem Blue Cross of California,FZE
+Blue Cross of Idaho,FZF
+BCBS of Nebraska,FZG
+Carefirst BCBS of Maryland,FZH
+Unassigned Prefix,FZI
+Empire BCBS of New York,FZJ
+Carefirst Administrators,FZK
+Unassigned Prefix,FZL
+BCBS of Tennessee,FZM
+Carefirst BCBS of Maryland,FZN
+Highmark BCBS,FZO
+BCBS of Michigan,FZP
+Capital Blue Cross,FZQ
+Anthem BCBS of Nevada,FZR
+Unassigned Prefix,FZS
+BCBS of Illinois,FZT
+BCBS of Florida,FZU
+Wellmark BCBS,FZV
+Premera Blue Cross,FZW
+Anthem BCBS of Virginia,FZX
+BCBS of North Carolina,FZY
+Wellmark BCBS,FZZ
+Blue Cross of California,OL

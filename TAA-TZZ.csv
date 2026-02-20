@@ -1,0 +1,741 @@
+BCBS_Name,Acronym
+BCBS of Western New York,T2A
+Blue Cross Blue Shield of Illinois,T2B
+Blue Cross Blue Shield of Texas,T2D
+Blue Cross Blue Shield of Texas,T2E
+Blue Cross Blue Shield of Texas,T2F
+Blue Cross Blue Shield of Texas,T2G
+Blue Cross Blue Shield of Illinois,T2H
+Blue Cross Blue Shield of Texas,T2J
+Blue Cross Blue Shield of Texas,T2K
+Regence Blue Cross Blue Shield of Oregon,T2L
+Anthem Blue Cross of California,T2M
+Anthem Blue Cross of Virginia,T2N
+Blue Cross of California,T2Q
+Blue Cross Blue Shield of Illinois,T2R
+Capital Blue Cross,T2V
+Blue Cross Blue Shield of Illinois,T2W
+Blue Cross Blue Shield of Illinois,T2X
+Blue Cross Blue Shield of North Dakota,T2Y
+Blue Cross Blue Shield of Illinois,T2Z
+Regence Blue Cross Blue Shield of Oregon,T3A
+Highmark BCBS of Pennsylvania,T3B
+Regence Blue Cross Blue Shield of Oregon,T3C
+Highmark BCBS of Pennsylvania,T3D
+Blue Cross Blue Shield of Illinois,T3H
+Blue Cross of California,T3M
+Blue Cross Blue Shield of Minnesota,T3P
+Blue Cross Blue Shield of Texas,T3R
+Blue Cross Blue Shield of Minnesota,T3T
+Anthem BCBS of Missouri,T3U
+Empire BCBS of New York,T4A
+Empire BCBS of New York,T4B
+Empire BCBS of New York,T4C
+Empire BCBS of New York,T4D
+Empire BCBS of New York,T4E
+Empire BCBS of New York,T4F
+Blue Cross Blue Shield of Illinois,T4H
+Empire BCBS of New York,T4J
+Empire BCBS of New York,T4K
+Empire BCBS of New York,T4L
+Empire BCBS of New York,T4N
+Anthem BCBS of Colorado,T4O
+Blue Cross Blue Shield of Illinois,T4P
+Blue Cross Blue Shield of Texas,T4R
+Blue Cross Blue Shield of Massachusetts,T4T
+Empire BCBS of New York,T4U
+Empire BCBS of New York,T4V
+Blue Cross of California,T5A
+Anthem BCBS of Ohio,T5B
+Anthem BCBS of Virginia,T5F
+Anthem BCBS of Indiana,T5G
+Blue Cross Blue Shield of Illinois,T5H
+Anthem BCBS of Georgia,T5N
+Anthem BCBS of Ohio,T5O
+Regence Blue Cross Blue Shield of Oregon,T5P
+Blue Cross Blue Shield of Texas,T5R
+Regence Blue Cross Blue Shield of Oregon,T5T
+Empire BCBS of New York,T6A
+Regence Blue Cross Blue Shield of Oregon,T6G
+Blue Cross Blue Shield of Illinois,T6H
+Blue Cross Blue Shield of Illinois,T7H
+Blue Cross Blue Shield of Illinois,T8H
+Premera Blue Cross,T8R
+Premera Blue Cross,T8R
+Blue Cross Blue Shield of Illinois,T9H
+Highmark BCBS,TAA
+Anthem Blue Cross of California,TAB
+Blue Cross of Idaho,TAC
+Unassigned Prefix,TAD
+Anthem BCBS of Colorado,TAE
+BCBS of Illinois,TAF
+Anthem BCBS of Ohio,TAG
+Premera Blue Cross,TAH
+Anthem BCBS of Ohio,TAI
+BCBS of Illinois,TAJ
+Unassigned Prefix,TAK
+BCBS of Minnesota,TAL
+BCBS of Alabama,TAM
+Independence Blue Cross,TAN
+Unassigned Prefix,TAO
+Premera Blue Cross,TAP
+BCBS of Western New York,TAQ
+Unassigned Prefix,TAR
+Anthem BCBS of Wisconsin,TAS
+Premera Blue Cross,TAT
+BCBS of Massachusetts,TAU
+BCBS of South Carolina,TAV
+Anthem BCBS of Hampshire,TAW
+BCBS of Georgia,TAX
+BCBS of North Carolina,TAY
+BCBS of Georgia,TAZ
+BCBS of Michigan,TBA
+Anthem BCBS of Wisconsin,TBB
+BCBS of Texas,TBC
+BCBS of Tennessee,TBD
+BCBS of Illinois,TBE
+Anthem BCBS of Missouri,TBF
+Horizon BCBS of New Jersey,TBG
+Anthem BCBS of Missouri,TBH
+Anthem BCBS of Virginia,TBI
+BCBS of Massachusetts,TBJ
+BCBS of Illinois,TBK
+BCBS of Illinois,TBL
+Highmark BCBS,TBM
+BCBS of Minnesota,TBN
+Anthem BCBS of Missouri,TBO
+BCBS of Michigan,TBP
+Anthem BCBS of Wisconsin,TBQ
+BCBS of Michigan,TBR
+BCBS of Kansas City,TBS
+Anthem Blue Cross of California,TBT
+Unassigned Prefix,TBU
+BCBS of Minnesota,TBV
+Anthem BCBS of Virginia,TBW
+BCBS of Michigan,TBX
+BCBS of Florida,TBY
+BCBS of Massachusetts,TBZ
+BCBS of Alabama,TCA
+Anthem BCBS of Ohio,TCB
+BCBS of Illinois,TCC
+Anthem BCBS of Virginia,TCD
+Anthem Blue Cross of California,TCE
+BCBS of South Carolina,TCF
+BCBS of Texas,TCG
+Anthem BCBS of Ohio,TCH
+BCBS of Massachusetts,TCI
+BCBS of Massachusetts,TCJ
+BCBS of Massachusetts,TCK
+Unassigned Prefix,TCL
+BCBS of Michigan,TCM
+Unassigned Prefix,TCN
+BCBS of Alabama,TCO
+BCBS of Texas,TCP
+Blue Shield of California,TCQ
+BCBS of Texas,TCR
+Carefirst Administrators,TCS
+Anthem BCBS of Ohio,TCT
+Unassigned Prefix,TCU
+BCBS of South Carolina,TCV
+Anthem Blue Cross of California,TCW
+Blue Shield of California,TCX
+BCBS of Georgia,TCY
+BCBS of Nebraska,TCZ
+BCBS of Illinois,TDA
+Blue Cross of Idaho,TDB
+Highmark BCBS,TDC
+Unassigned Prefix,TDD
+BCBS of Texas,TDE
+Unassigned Prefix,TDF
+Anthem Blue Cross of California,TDG
+Unassigned Prefix,TDH
+BCBS of Texas,TDI
+BCBS of Michigan,TDJ
+BCBS of North Carolina,TDK
+Highmark BCBS,TDL
+Highmark BCBS,TDM
+Anthem BCBS of Ohio,TDN
+Anthem BCBS of Virginia,TDO
+Anthem BCBS of Wisconsin,TDP
+BCBS of Michigan,TDQ
+Blue Cross of Idaho,TDR
+BCBS of Georgia,TDS
+Premera Blue Cross,TDT
+BCBS of Michigan,TDU
+BCBS of Michigan,TDV
+Anthem BCBS of Georgia,TDW
+Blue Shield of California,TDX
+Independence Blue Cross,TDY
+Anthem BCBS of Georgia,TDZ
+BCBS of Illinois,TEA
+Horizon BCBS of New Jersey,TEB
+BCBS of Texas,TEC
+Anthem BCBS of Colorado,TED
+Unassigned Prefix,TEE
+Anthem Blue Cross of California,TEF
+Carefirst BCBS,TEG
+Blue Shield of California,TEH
+Anthem BCBS of Ohio,TEI
+Blue Shield of Northeastern New York,TEJ
+BCBS of Illinois,TEK
+Unassigned Prefix,TEL
+Blue Shield of California,TEM
+BCBS of Illinois,TEN
+Unassigned Prefix,TEO
+BCBS of Illinois,TEP
+BCBS of Alabama,TEQ
+Carefirst BCBS,TER
+Blue Shield of California,TES
+BCBS of South Carolina,TET
+Blue Shield of California,TEU
+BCBS of Michigan,TEV
+BCBS of Illinois,TEW
+BCBS of Texas,TEX
+Anthem Blue Cross of California,TEY
+BCBS of Texas,TEZ
+Unassigned Prefix,TFA
+Regence Blue Cross Blue Shield of Utah,TFB
+Regence Blue Shield of Idaho,TFC
+BCBS of Illinois,TFD
+Independence Blue Cross,TFE
+Anthem BCBS of Ohio,TFF
+Carefirst BCBS,TFG
+BCBS of Tennessee,TFH
+Blue Cross of Idaho,TFI
+Anthem BCBS of Connecticut,TFJ
+Unassigned Prefix,TFK
+BCBS of Minnesota,TFL
+BCBS of Minnesota,TFM
+Unassigned Prefix,TFN
+Blue Shield of California,TFO
+Carefirst Administrators,TFP
+Unassigned Prefix,TFQ
+BCBS of Alabama,TFR
+BCBS of Georgia,TFS
+Unassigned Prefix,TFT
+Carefirst BCBS,TFU
+Anthem BCBS of Ohio,TFV
+Anthem BCBS of Georgia,TFW
+Highmark BCBS,TFX
+BCBS of Texas,TFY
+BCBS of Illinois,TFZ
+Empire BCBS of New York,TGA
+BCBS of Texas,TGB
+Anthem BCBS of Ohio,TGC
+BCBS of Western New York,TGD
+BCBS of Alabama,TGE
+BCBS of Texas,TGF
+Anthem Blue Cross of California,TGG
+BCBS of Illinois,TGH
+BCBS of Western New York,TGI
+Wellmark BCBS,TGJ
+Blue Shield of California,TGK
+BCBS of Arizona,TGL
+BCBS of Alabama,TGM
+BCBS of Michigan,TGN
+Regence BCBS,TGO
+Unassigned Prefix,TGP
+Anthem BCBS of Wisconsin,TGQ
+BCBS of Texas,TGR
+BCBS of Minnesota,TGS
+Unassigned Prefix,TGT
+Unassigned Prefix,TGU
+Blue Shield of California,TGV
+Horizon BCBS of New Jersey,TGW
+Blue Shield of California,TGX
+Unassigned Prefix,TGY
+Anthem BCBS of Colorado,TGZ
+Anthem BCBS of Kentucky,THA
+Carefirst Administrators,THB
+Carefirst BCBS,THC
+Wellmark BCBS,THD
+Carefirst BCBS,THE
+Anthem Blue Cross of California,THF
+BCBS of Alabama,THG
+Carefirst BCBS,THH
+Unassigned Prefix,THI
+BCBS of Kansas City,THJ
+Carefirst BCBS,THK
+Carefirst BCBS,THL
+BCBS of Florida,THM
+Wellmark BCBS,THN
+Blue Shield of California,THO
+Anthem BCBS of Virginia,THP
+BCBS of Florida,THQ
+Regence BCBS,THR
+Independence Blue Cross,THS
+BCBS of North Carolina,THT
+Anthem Blue Cross of California,THU
+BCBS of Alabama,THV
+Blue Shield of California,THW
+BCBS of Tennessee,THX
+Anthem BCBS of Virginia,THY
+BCBS of Minnesota,THZ
+Blue Shield of California,TIA
+Carefirst BCBS,TIB
+Independence Blue Cross,TIC
+BCBS of Western New York,TID
+BCBS of Michigan,TIE
+BCBS of Massachusetts,TIF
+BCBS of Nebraska,TIG
+Unassigned Prefix,TIH
+Anthem BCBS of Georgia,TII
+Unassigned Prefix,TIJ
+Independence Blue Cross,TIK
+BCBS of Alabama,TIL
+Regence Blue Cross Blue Shield of Oregon,TIM
+BCBS of South Carolina,TIN
+Anthem BCBS of Ohio,TIO
+Anthem BCBS of Virginia,TIP
+BCBS of Massachusetts,TIQ
+Anthem BCBS of Virginia,TIR
+BCBS of Georgia,TIS
+Unassigned Prefix,TIT
+BCBS of Michigan,TIU
+Regence BCBS,TIV
+BCBS of Illinois,TIW
+Anthem BCBS of Virginia,TIX
+BCBS of Michigan,TIY
+Blue Shield of California,TIZ
+Anthem BCBS of Virginia,TJA
+BCBS of Texas,TJB
+BCBS of Massachusetts,TJC
+BCBS of Michigan,TJD
+Carefirst BCBS,TJE
+BCBS of Texas,TJF
+Premera Blue Cross,TJG
+Anthem BCBS of Ohio,TJH
+Carefirst BCBS,TJI
+BCBS of Massachusetts,TJJ
+BCBS of Texas,TJK
+Unassigned Prefix,TJL
+Unassigned Prefix,TJM
+BCBS of Alabama,TJN
+Unassigned Prefix,TJO
+BCBS of Michigan,TJP
+Blue Shield of Northeastern New York,TJQ
+BCBS of Nebraska,TJR
+Anthem Blue Cross of California,TJS
+Anthem BCBS of Virginia,TJT
+Horizon BCBS of New Jersey,TJU
+Blue Shield of California,TJV
+BCBS of Massachusetts,TJW
+BCBS of Massachusetts,TJX
+BCBS of Texas,TJY
+BCBS of Illinois,TJZ
+BCBS of Michigan,TKA
+BCBS of Mississippi,TKB
+Anthem BCBS of Ohio,TKC
+Premera Blue Cross,TKD
+BCBS of Illinois,TKE
+Regence BCBS,TKF
+BCBS of Illinois,TKG
+BCBS of Illinois,TKH
+Anthem BCBS of Ohio,TKI
+Unassigned Prefix,TKJ
+BCBS of Illinois,TKK
+Carefirst BCBS,TKL
+BCBS of Illinois,TKM
+BCBS of Illinois,TKN
+BCBS of Rhose Island,TKO
+BCBS of Massachusetts,TKP
+BCBS of Georgia,TKQ
+BCBS of Georgia,TKR
+BCBS of Illinois,TKS
+BCBS of Texas,TKT
+Empire BCBS of New York,TKU
+Anthem BCBS of Virginia,TKV
+BCBS of Michigan,TKW
+BCBS of Texas,TKX
+BCBS of Michigan,TKY
+BCBS of Michigan,TKZ
+Horizon BCBS of New Jersey,TLA
+Carefirst BCBS,TLB
+Unassigned Prefix,TLC
+BCBS of Massachusetts,TLD
+BCBS of Illinois,TLE
+BCBS of North Carolina,TLF
+BCBS of Minnesota,TLG
+Horizon BCBS of New Jersey,TLH
+BCBS of Massachusetts,TLI
+BCBS of Alabama,TLJ
+BCBS of Michigan,TLK
+Anthem Blue Cross of California,TLL
+BCBS of Alabama,TLM
+BCBS of Illinois,TLN
+BCBS of Illinois,TLO
+Anthem BCBS of Connecticut,TLP
+Anthem BCBS of Ohio,TLQ
+BCBS of Illinois,TLR
+BCBS of Illinois,TLS
+BCBS of Illinois,TLT
+BCBS of Illinois,TLU
+BCBS of Rhose Island,TLV
+BCBS of Western New York,TLW
+BCBS of Illinois,TLX
+BCBS of Western New York,TLY
+Highmark BCBS,TLZ
+BCBS of Alabama,TMA
+Independence Blue Cross,TMB
+Anthem BCBS of Colorado,TMC
+BCBS of Texas,TMD
+Blue Cross of Idaho,TME
+Wellmark BCBS,TMF
+BCBS of Alabama,TMG
+BCBS of Michigan,TMH
+BCBS of Massachusetts,TMI
+BCBS of Illinois,TMJ
+BCBS of Texas,TMK
+BCBS of Illinois,TML
+BCBS of Texas,TMM
+Anthem Blue Cross of California,TMN
+BCBS of North Dakota,TMO
+Premera Blue Cross,TMP
+Independence Blue Cross,TMQ
+Anthem BCBS of Kentucky,TMR
+BCBS of Illinois,TMS
+Blue Shield of California,TMT
+Horizon BCBS of New Jersey,TMU
+BCBS of Illinois,TMV
+Independence Blue Cross,TMW
+BCBS of Alabama,TMX
+Regence Blue Cross Blue Shield of Utah,TMY
+BCBS of Arizona,TMZ
+BCBS of South Carolina,TNA
+BCBS of Minnesota,TNB
+Unassigned Prefix,TNC
+Carefirst Administrators,TND
+Wellmark BCBS,TNE
+Anthem BCBS of Ohio,TNF
+Regence Blue Cross Blue Shield of Oregon,TNG
+Unassigned Prefix,TNH
+BCBS of Michigan,TNI
+Anthem BCBS of Nevada,TNJ
+Anthem BCBS of Wisconsin,TNK
+BCBS of Minnesota,TNL
+BCBS of Georgia,TNM
+BCBS of Arkansas,TNN
+BCBS of North Carolina,TNO
+Anthem Blue Cross of California,TNP
+Anthem BCBS of Ohio,TNQ
+BCBS of Massachusetts,TNR
+Excellus BCBS of New York,TNS
+BCBS of North Dakota,TNT
+Independence Blue Cross,TNU
+Empire BCBS of New York,TNV
+Wellmark BCBS,TNW
+Anthem Blue Cross of California,TNX
+Excellus BCBS of New York,TNY
+BCBS of Tennessee,TNZ
+Anthem BCBS of Ohio,TOA
+Carefirst BCBS,TOB
+Unassigned Prefix,TOC
+BCBS of Alabama,TOD
+BCBS of Kansas,TOE
+Unassigned Prefix,TOF
+Regence BCBS of Washington,TOG
+Anthem BCBS of Ohio,TOH
+Unassigned Prefix,TOI
+Carefirst BCBS,TOJ
+BCBS of North Carolina,TOK
+BCBS of Minnesota,TOL
+Wellmark BCBS,TOM
+Independence Blue Cross,TON
+Blue Shield of California,TOO
+Unassigned Prefix,TOP
+BCBS of Minnesota,TOQ
+Unassigned Prefix,TOR
+BCBS of Illinois,TOS
+Anthem Blue Cross of California,TOT
+BCBS of Michigan,TOU
+BCBS of Michigan,TOV
+BCBS of Michigan,TOW
+BCBS of Minnesota,TOX
+BCBS of Michigan,TOY
+Unassigned Prefix,TOZ
+Unassigned Prefix,TPA
+BCBS of Michigan,TPB
+Wellmark BCBS,TPC
+Carefirst BCBS,TPD
+Anthem BCBS of Kentucky,TPE
+Anthem Blue Cross of California,TPF
+BCBS of Rhose Island,TPG
+Wellmark BCBS,TPH
+BCBS of Illinois,TPI
+Unassigned Prefix,TPJ
+BCBS of Illinois,TPK
+Anthem BCBS of Kentucky,TPL
+BCBS of Michigan,TPM
+Anthem BCBS of Ohio,TPN
+BCBS of Western New York,TPO
+Empire BCBS of New York,TPP
+Wellmark BCBS,TPQ
+Wellmark BCBS,TPR
+Anthem Blue Cross of California,TPS
+Excellus BCBS of New York,TPT
+Anthem BCBS of Virginia,TPU
+BCBS of Illinois,TPV
+Regence BCBS,TPW
+Anthem BCBS of Ohio,TPX
+Independence Blue Cross,TPY
+Blue Shield of California,TPZ
+Premera Blue Cross,TQA
+Regence BCBS of Washington,TQB
+BCBS of Minnesota,TQC
+BCBS of Michigan,TQD
+Anthem BCBS of Indiana,TQE
+BCBS of Michigan,TQF
+Highmark BCBS,TQG
+BCBS of Massachusetts,TQH
+Wellmark BCBS,TQI
+Independence Blue Cross,TQJ
+BCBS of Michigan,TQK
+Horizon BCBS of New Jersey,TQL
+BCBS of Minnesota,TQM
+Anthem BCBS of Ohio,TQN
+BCBS of North Dakota,TQO
+Anthem BCBS of Ohio,TQP
+BCBS of Minnesota,TQQ
+Regence Blue Cross Blue Shield of Utah,TQR
+Anthem BCBS of Ohio,TQS
+Horizon BCBS of New Jersey,TQT
+BCBS of Minnesota,TQU
+Unassigned Prefix,TQV
+Horizon BCBS of New Jersey,TQW
+BCBS of Georgia,TQX
+BCBS of Alabama,TQY
+BCBS of Massachusetts,TQZ
+BCBS of Illinois,TRA
+BCBS of Illinois,TRB
+BCBS of Illinois,TRC
+Anthem BCBS of Wisconsin,TRD
+BCBS of Arizona,TRE
+BCBS of Michigan,TRF
+Premera Blue Cross,TRG
+BCBS of Tennessee,TRH
+Capital Blue Cross,TRI
+Anthem Blue Cross of California,TRJ
+BCBS of Illinois,TRK
+BCBS of Massachusetts,TRL
+Blue Shield of California,TRM
+Anthem BCBS of Connecticut,TRN
+Carefirst Administrators,TRO
+BCBS of Minnesota,TRP
+Independence Blue Cross,TRQ
+BCBS of Tennessee,TRR
+BCBS of Kansas City,TRS
+BCBS of Alabama,TRT
+Blue Cross of Idaho,TRU
+BCBS of Tennessee,TRV
+Unassigned Prefix,TRW
+Independence Blue Cross,TRX
+Unassigned Prefix,TRY
+Highmark BCBS,TRZ
+BCBS of Texas,TSA
+BCBS of Minnesota,TSB
+Wellmark BCBS,TSC
+Wellmark BCBS,TSD
+Anthem Blue Cross of California,TSE
+Unassigned Prefix,TSF
+Wellmark BCBS,TSG
+Blue Cross of Idaho,TSH
+BCBS of Illinois,TSI
+Anthem BCBS of Connecticut,TSJ
+Carefirst BCBS,TSK
+BCBS of Nebraska,TSL
+Highmark BCBS,TSM
+Anthem Blue Cross of California,TSN
+Unassigned Prefix,TSO
+Wellmark BCBS,TSP
+BCBS of Minnesota,TSQ
+Highmark BCBS,TSR
+Unassigned Prefix,TSS
+Premera Blue Cross,TST
+Premera Blue Cross,TSU
+Wellmark BCBS,TSV
+Anthem Blue Cross of California,TSW
+Anthem BCBS of Ohio,TSX
+Anthem Blue Cross of California,TSY
+BCBS of Texas,TSZ
+Blue Cross of Idaho,TTA
+BCBS of Texas,TTB
+Anthem BCBS of Ohio,TTC
+Anthem Blue Cross of California,TTD
+Wellmark BCBS,TTE
+BCBS of Texas,TTF
+Anthem BCBS of Ohio,TTG
+Carefirst BCBS,TTH
+BCBS of Alabama,TTI
+BCBS of Florida,TTJ
+BCBS of Arizona,TTK
+Anthem BCBS of Ohio,TTL
+Anthem BCBS of Ohio,TTM
+Anthem BCBS of Ohio,TTN
+Unassigned Prefix,TTO
+Carefirst BCBS,TTP
+Anthem Blue Cross of California,TTQ
+BCBS of Michigan,TTR
+Anthem BCBS of Virginia,TTS
+Unassigned Prefix,TTT
+BCBS of Mississippi,TTU
+Wellmark BCBS,TTV
+BCBS of Georgia,TTW
+BCBS of Massachusetts,TTX
+Anthem BCBS of Ohio,TTY
+Anthem BCBS of Ohio,TTZ
+Capital Blue Cross,TUA
+BCBS of Illinois,TUB
+Anthem BCBS of Ohio,TUC
+Unassigned Prefix,TUD
+Highmark BCBS,TUE
+BCBS of Illinois,TUF
+Premera Blue Cross,TUG
+Carefirst BCBS,TUH
+Regence BCBS,TUI
+Carefirst BCBS,TUJ
+BCBS of Illinois,TUK
+Horizon BCBS of New Jersey,TUL
+Anthem BCBS of Ohio,TUM
+BCBS of Alabama,TUN
+BCBS of Tennessee,TUO
+Anthem BCBS of Wisconsin,TUP
+Unassigned Prefix,TUQ
+Empire BCBS of New York,TUR
+BCBS of Texas,TUS
+BCBS of Illinois,TUT
+Horizon BCBS of New Jersey,TUU
+Horizon BCBS of New Jersey,TUV
+Unassigned Prefix,TUW
+BCBS of Illinois,TUX
+BCBS of Michigan,TUY
+Anthem BCBS of Ohio,TUZ
+BCBS of Tennessee,TVA
+Unassigned Prefix,TVB
+BCBS of Massachusetts,TVC
+BCBS of Nebraska,TVD
+Wellmark BCBS,TVE
+Regence BCBS of Washington,TVF
+Anthem BCBS of Missouri,TVG
+BCBS of Illinois,TVH
+BCBS of Tennessee,TVI
+BCBS of Minnesota,TVJ
+Carefirst Administrators,TVK
+Anthem BCBS of Virginia,TVL
+Anthem BCBS of Virginia,TVM
+BCBS of Georgia,TVN
+BCBS of Tennessee,TVO
+Blue Shield of California,TVP
+Anthem BCBS of Ohio,TVQ
+Regence Blue Shield of Washington,TVR
+BCBS of Tennessee,TVS
+BCBS of Minnesota,TVT
+BCBS of Michigan,TVU
+Horizon BCBS of New Jersey,TVV
+BCBS of Minnesota,TVW
+Unassigned Prefix,TVX
+Wellmark BCBS,TVY
+Regence BCBS,TVZ
+BCBS of Georgia,TWA
+BCBS of Minnesota,TWB
+BCBS of Illinois,TWC
+Highmark BCBS,TWD
+BCBS of Massachusetts,TWE
+Horizon BCBS of New Jersey,TWF
+BCBS of North Carolina,TWG
+Blue Shield of California,TWH
+Regence BCBS of Washington,TWI
+BCBS of Western New York,TWJ
+Anthem BCBS of Ohio,TWK
+BCBS of Alabama,TWL
+Anthem Blue Cross of California,TWM
+Regence Blue Cross Blue Shield of Oregon,TWN
+Independence Blue Cross,TWO
+Horizon BCBS of New Jersey,TWP
+Empire BCBS of New York,TWQ
+Anthem Blue Cross of California,TWR
+Independence Blue Cross,TWS
+Carefirst BCBS,TWT
+Anthem BCBS of Ohio,TWU
+BCBS of Illinois,TWV
+Anthem BCBS of Ohio,TWW
+BCBS of Texas,TWX
+BCBS of Western New York,TWY
+Regence BCBS,TWZ
+BCBS of Illinois,TXA
+BCBS of Illinois,TXB
+BCBS of Alabama,TXC
+BCBS of Texas,TXD
+Unassigned Prefix,TXE
+BCBS of Illinois,TXF
+BCBS of Tennessee,TXG
+Anthem BCBS of Maine,TXH
+Unassigned Prefix,TXI
+Anthem BCBS of Nevada,TXJ
+Unassigned Prefix,TXK
+BCBS of Illinois,TXL
+Anthem BCBS of Ohio,TXM
+BCBS of Michigan,TXN
+Blue Shield of California,TXO
+Premera Blue Cross,TXP
+Blue Shield of California,TXQ
+BCBS of Texas,TXR
+BCBS of Texas,TXS
+BCBS of Massachusetts,TXT
+BCBS of Western New York,TXU
+BCBS of Tennessee,TXV
+BCBS of Texas,TXW
+BCBS of Massachusetts,TXX
+Unassigned Prefix,TXY
+BCBS of Tennessee,TXZ
+Premera Blue Cross,TYA
+Blue Shield of California,TYB
+Anthem Blue Cross of California,TYC
+Unassigned Prefix,TYD
+Unassigned Prefix,TYE
+Anthem BCBS of Ohio,TYF
+BCBS of Arkansas Blue Advantage,TYG
+Unassigned Prefix,TYH
+Wellmark BCBS,TYI
+Anthem BCBS of Wisconsin,TYJ
+Anthem BCBS of Ohio,TYK
+BCBS of Texas,TYL
+BCBS of South Carolina,TYM
+Horizon BCBS of New Jersey,TYN
+BCBS of Western New York,TYO
+Wellmark BCBS,TYP
+Carefirst BCBS,TYQ
+Premera Blue Cross,TYR
+Unassigned Prefix,TYS
+BCBS of Illinois,TYT
+Carefirst Administrators,TYU
+Anthem BCBS of Wisconsin,TYV
+BCBS of Arizona,TYW
+Anthem BCBS of Ohio,TYX
+BCBS of Texas,TYY
+BCBS of Arkansas - Health Advantage,TYZ
+BCBS of Illinois,TZA
+Highmark BCBS,TZB
+BCBS of Illinois,TZC
+Anthem BCBS of Ohio,TZD
+BCBS of Illinois,TZE
+Horizon BCBS of New Jersey,TZF
+Blue Shield of California,TZG
+Unassigned Prefix,TZH
+Empire BCBS of New York,TZI
+BCBS of Illinois,TZJ
+Unassigned Prefix,TZK
+Highmark BCBS,TZL
+Anthem Blue Cross of California,TZM
+Anthem BCBS of Ohio,TZN
+Anthem Blue Cross of California,TZO
+Regence Blue Cross Blue Shield of Utah,TZP
+Anthem BCBS of Ohio,TZQ
+BCBS of Illinois,TZR
+Premera Blue Cross,TZS
+BCBS of Arkansas,TZT
+Highmark BCBS,TZU
+BCBS of Georgia,TZV
+Highmark BCBS,TZW
+Anthem BCBS of Colorado,TZX
+Highmark BCBS,TZY
+Anthem Blue Cross of California,TZZ

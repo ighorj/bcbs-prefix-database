@@ -1,0 +1,778 @@
+BCBS_Name,Acronym
+BCBS of Western New York,S2A
+Blue Cross Blue Shield of Illinois,S2C
+Blue Cross Blue Shield of Texas,S2D
+Blue Cross Blue Shield of Illinois,S2E
+Blue Cross Blue Shield of Illinois,S2F
+Blue Cross Blue Shield of Texas,S2G
+Blue Cross Blue Shield of Alabama,S2H
+Anthem BCBS of Wisconsin,S2I
+Blue Cross Blue Shield of Texas,S2K
+Blue Cross Blue Shield of Illinois,S2L
+Regence Blue Cross Blue Shield of Oregon,S2M
+Blue Cross Blue Shield of Illinois,S2P
+Blue Cross Blue Shield of Massachusetts,S2Q
+Blue Cross Blue Shield of Illinois,S2R
+Independence Blue Cross FOC,S2S
+Blue Cross Blue Shield of Illinois,S2T
+Blue Cross Blue Shield of Illinois,S2V
+Blue Cross Blue Shield of Texas,S2X
+Blue Cross Blue Shield of Illinois,S2Y
+Blue Cross Blue Shield of Texas,S2Z
+Blue Shield of Northeastern New York,S3A
+Premera Blue Cross,S3B
+Independence Blue Cross FOC,S3C
+Blue Cross Blue Shield of Illinois,S3D
+Blue Cross Blue Shield of Illinois,S3E
+Blue Cross Blue Shield of Illinois,S3F
+Premera Blue Cross,S3G
+Blue Cross Blue Shield of Texas,S3H
+Blue Cross Blue Shield of Texas,S3K
+Blue Cross Blue Shield of Illinois,S3L
+Blue Cross Blue Shield of Illinois,S3M
+Blue Cross Blue Shield of Illinois,S3P
+Anthem Blue Cross of California,S3Q
+Highmark BCBS of Pennsylvania,S3R
+Independence Blue Cross FOC,S3S
+BCBS of Western New York,S3T
+Highmark BCBS of Pennsylvania,S3U
+Blue Cross Blue Shield of Massachusetts,S3Y
+Premera Blue Cross,S4A
+Premera Blue Cross,S4B
+Premera Blue Cross,S4C
+Premera Blue Cross,S4E
+Blue Cross Blue Shield of Illinois,S4F
+Blue Cross Blue Shield of Massachusetts,S4G
+Anthem BCBS of Missouri,S4H
+Independence Blue Cross FOC,S4K
+Blue Cross Blue Shield of Illinois,S4L
+Blue Cross Blue Shield of Illinois,S4M
+Blue Cross Blue Shield of Illinois,S4N
+Blue Cross Blue Shield of Illinois,S4P
+Empire Blue Cross Blue Shield,S4R
+Blue Cross Blue Shield of Texas,S4U
+Premera Blue Cross,S4V
+Regence Blue Cross Blue Shield of Oregon,S4W
+Blue Cross Blue Shield of Texas,S5A
+Blue Cross Blue Shield of Massachusetts,S5C
+Blue Cross Blue Shield of Texas,S5E
+Anthem BCBS of Indiana,S5G
+Anthem BCBS of Missouri,S5H
+Blue Cross Blue Shield of Illinois,S5L
+Blue Cross Blue Shield of Illinois,S5M
+Blue Cross Blue Shield of Minnesota,S5P
+Blue Cross Blue Shield of Illinois,S5T
+Blue Cross Blue Shield of Texas,S5U
+Capital BlueCross,S5V
+Blue Cross Blue Shield of Texas,S6A
+Blue Cross Blue Shield of Illinois,S6B
+Blue Cross Blue Shield of Texas,S6E
+Blue Cross Blue Shield of Minnesota,S6H
+Anthem BCBS of Ohio,S6K
+Blue Cross Blue Shield of Texas,S6L
+Anthem BCBS of Kentucky,S6M
+Regence Blue Shield of Washington,S6P
+Empire Blue Cross Blue Shield,S6Q
+Blue Cross Blue Shield of Texas,S6U
+Regence Blue Cross Blue Shield of Oregon,S6W
+Blue Cross Blue Shield of Illinois,S6Y
+Anthem BCBS of Missouri,S7A
+Anthem BCBS of Missouri,S7B
+Anthem BCBS of Missouri,S7C
+Regence Blue Shield of Washington,S7E
+Anthem BCBS of Virginia,S7G
+Regence Blue Cross Blue Shield of Oregon,S7L
+Blue Cross Blue Shield of Illinois,S7T
+Blue Cross Blue Shield of Texas,S7U
+Anthem BCBS of Ohio,S8A
+Empire Blue Cross Blue Shield,S8C
+Premera Blue Cross,S8K
+Blue Cross Blue Shield of Illinois,S8L
+Blue Cross Blue Shield of Minnesota,S8N
+Anthem BCBS of Missouri,S8T
+Highmark BCBS of Pennsylvania,S8Y
+Premera Blue Cross,S9B
+Blue Cross Blue Shield of Texas,S9C
+Regence Blue Shield of Washington,S9H
+Unassigned Prefix,S9J
+Regence Blue Cross Blue Shield of Oregon,S9L
+Blue Cross Blue Shield of Michigan,S9M
+Anthem BCBS of Ohio,S9R
+Independence Blue Cross FOC,S9S
+Anthem BCBS of Kentucky,S9T
+Wellmark BCBS,SAA
+Anthem BCBS of Ohio,SAB
+Anthem Blue Cross of California,SAC
+BCBS of North Carolina,SAD
+Highmark BCBS,SAE
+Anthem Blue Cross of California,SAF
+Anthem Blue Cross of California,SAG
+BCBS of Illinois,SAH
+BCBS of Delaware,SAI
+Empire BCBS of New York,SAJ
+BCBS of Illinois,SAK
+BCBS of South Carolina,SAL
+Carefirst BCBS of Maryland,SAM
+BCBS of Georgia,SAN
+Wellmark BCBS,SAO
+Wellmark BCBS,SAP
+BCBS of Minnesota,SAQ
+BCBS of Michigan,SAR
+Unassigned Prefix,SAS
+Wellmark BCBS,SAT
+BCBS of South Carolina,SAU
+BCBS of Georgia,SAV
+Regence BCBS of Utah,SAW
+Empire BCBS of New York,SAX
+Carefirst BCBS,SAY
+BCBS of North Carolina,SAZ
+Anthem BCBS of Indiana,SBA
+Unassigned Prefix,SBB
+BCBS of Illinois,SBC
+BCBS of South Carolina,SBD
+BCBS of Massachusetts,SBE
+BCBS of Illinois,SBF
+BCBS of Alabama,SBG
+Highmark BCBS,SBH
+Anthem BCBS of Georgia,SBI
+Regence BCBS of Washington,SBJ
+Carefirst Administrators,SBK
+Unassigned Prefix,SBL
+Wellmark BCBS,SBM
+Carefirst Administrators,SBN
+BCBS of Florida,SBO
+BCBS of Illinois,SBP
+BCBS of Illinois,SBQ
+Highmark BCBS,SBR
+BCBS of Georgia,SBS
+Anthem BCBS of Ohio,SBT
+Premer BCBS of Alaska,SBU
+Anthem Blue Cross of California,SBV
+BCBS of Massachusetts,SBW
+BCBS of Massachusetts,SBX
+BCBS of South Carolina,SBY
+Unassigned Prefix,SBZ
+BCBS of Rhose Island,SCA
+BCBS of South Carolina,SCB
+Blue Shield of California,SCC
+BCBS of Texas,SCD
+BCBS of Illinois,SCE
+Carefirst BCBS of Maryland,SCF
+BCBS of Alabama,SCG
+BCBS of Minnesota,SCH
+Regence Blue Cross Blue Shield of Oregon,SCI
+BCBS of Minnesota,SCJ
+Wellmark BCBS,SCK
+Premera BCBS of Alaska,SCL
+BCBS of Texas,SCM
+Anthem BCBS of Ohio,SCN
+BCBS of Alabama,SCO
+BCBS of Arkansas,SCP
+Wellmark BCBS,SCQ
+BCBS of Michigan,SCR
+Capital BlueCross,SCS
+BCBS of Tennessee,SCT
+Blue Cross of Idaho,SCU
+Horizon BCBS of New Jersey,SCV
+BCBS of Alabama,SCW
+BCBS of Illinois,SCX
+BCBS of Alabama,SCY
+BCBS of South Carolina,SCZ
+BCBS of Nebraska,SDA
+BCBS of South Carolina,SDB
+Anthem BCBS of Virginia,SDC
+Blue Shield of Northeastern New York,SDD
+BCBS of Delaware,SDE
+Carefirst Administrators,SDF
+Anthem Blue Cross of California,SDG
+Wellmark BCBS,SDH
+Wellmark BCBS,SDI
+BCBS of Minnesota,SDJ
+BCBS of South Carolina,SDK
+Blue Cross of Idaho,SDL
+Unassigned Prefix,SDM
+Anthem BCBS of Connecticut,SDN
+BCBS of Illinois,SDO
+Empire BCBS of New York,SDP
+BCBS of Florida,SDQ
+Highmark BCBS,SDR
+Excellus BCBS of New York,SDS
+BCBS of Alabama,SDT
+Anthem Blue Cross of California,SDU
+Anthem BCBS of Ohio,SDV
+BCBS of Nebraska,SDW
+BCBS of Minnesota,SDX
+BCBS of Florida,SDY
+Unassigned Prefix,SDZ
+Premera Blue Cross,SEA
+BCBS of Michigan,SEB
+BCBS of Florida,SEC
+BCBS of Illinois,SED
+BCBS of Michigan,SEE
+Blue Shield of California,SEF
+Anthem BCBS of Kentucky,SEG
+BCBS of Alabama,SEH
+Highmark BCBS,SEI
+Independence Blue Cross,SEJ
+BCBS of South Carolina,SEK
+Wellmark BCBS,SEL
+Anthem Blue Cross of California,SEM
+Anthem BCBS of Ohio,SEN
+Blue Shield of California,SEO
+Carefirst BCBS,SEP
+BCBS of Georgia,SEQ
+BCBS of Texas,SER
+BCBS of Michigan,SES
+BCBS of Texas,SET
+Wellmark BCBS,SEU
+BCBS of North Carolina,SEV
+BCBS of Tennessee,SEW
+Unassigned Prefix,SEX
+Anthem Blue Cross of California,SEY
+Independence Blue Cross,SEZ
+Empire BCBS of New York,SFA
+BCBS of Illinois,SFB
+Wellmark BCBS,SFC
+Unassigned Prefix,SFD
+Unassigned Prefix,SFE
+BCBS of Tennessee,SFF
+Anthem Blue Cross of California,SFG
+Wellmark BCBS,SFH
+BCBS of Illinois,SFI
+Wellmark BCBS,SFJ
+Premera Blue Cross,SFK
+BCBS of Florida,SFL
+BCBS of Alabama,SFM
+Wellmark BCBS,SFN
+BCBS of Massachusetts,SFO
+BCBS of Illinois,SFP
+BCBS of Mississippi,SFQ
+BCBS of South Carolina,SFR
+BCBS of Tennessee,SFS
+BCBS of Arkansas Blue Advantage,SFT
+Independence Blue Cross,SFU
+Anthem BCBS of Virginia,SFV
+Empire BCBS of New York,SFW
+Unassigned Prefix,SFX
+Carefirst BCBS of Maryland,SFY
+BCBS of Illinois,SFZ
+Anthem BCBS of Missouri,SGA
+BCBS of Michigan,SGB
+BCBS of Michigan,SGC
+BCBS of Georgia,SGD
+Anthem Blue Cross of California,SGE
+Unassigned Prefix,SGF
+BCBS of Illinois,SGG
+Horizon BCBS of New Jersey,SGH
+BCBS of Vermont,SGI
+Blue Cross of Idaho,SGJ
+Carefirst Administrators,SGK
+Regence BCBS,SGL
+BCBS of Michigan,SGM
+BCBS of Louisiana,SGN
+BCBS of Massachusetts,SGO
+Carefirst BCBS of Maryland,SGP
+Unassigned Prefix,SGQ
+BCBS of Massachusetts,SGR
+BCBS of Massachusetts,SGS
+BCBS of Massachusetts,SGT
+BCBS of South Carolina,SGU
+Anthem Blue Cross of California,SGV
+BCBS of Illinois,SGW
+Horizon BCBS of New Jersey,SGX
+Anthem BCBS of Ohio,SGY
+Horizon BCBS of New Jersey,SGZ
+Anthem BCBS of Missouri,SHA
+Anthem BCBS of Ohio,SHB
+Anthem Blue Cross of California,SHC
+Empire BCBS of New York,SHD
+Wellmark BCBS,SHE
+Regence Blue Cross Blue Shield of Utah,SHF
+Wellmark BCBS,SHG
+Unassigned Prefix,SHH
+Wellmark BCBS,SHI
+Anthem BCBS of Virginia,SHJ
+Carefirst BCBS of Maryland,SHK
+BCBS of South Carolina,SHL
+BCBS of Illinois,SHM
+BCBS of Illinois,SHN
+Anthem Blue Cross of California,SHO
+Anthem BCBS of Connecticut,SHP
+Independence Blue Cross,SHQ
+BCBS of Massachusetts,SHR
+Carefirst Administrators,SHS
+BCBS of Texas,SHT
+Anthem BCBS of Ohio,SHU
+BCBS of North Dakota,SHV
+Anthem BCBS of Virginia,SHW
+BCBS of Alabama,SHX
+Anthem BCBS of Ohio,SHY
+BCBS of North Dakota,SHZ
+Wellmark BCBS,SIA
+BCBS of South Carolina,SIB
+Blue Shield of California,SIC
+Regence BCBS,SID
+Anthem BCBS of Virginia,SIE
+Anthem Blue Cross of California,SIF
+BCBS of Massachusetts,SIG
+Empire BCBS of New York,SIH
+Independence Blue Cross,SII
+Anthem BCBS of Georgia,SIJ
+Unassigned Prefix,SIK
+Blue Shield of California,SIL
+Highmark BCBS,SIM
+Independence Blue Cross,SIN
+BCBS of North Carolina,SIO
+BCBS of North Carolina,SIP
+Unassigned Prefix,SIQ
+Anthem Blue Cross of California,SIR
+Blue Shield of California,SIS
+Blue Shield of California,SIT
+BCBS of Illinois,SIU
+Blue Shield of California,SIV
+BCBS of Illinois,SIW
+Anthem BCBS of Virginia,SIX
+Anthem BCBS of Ohio,SIY
+Wellmark BCBS,SIZ
+Anthem BCBS of Ohio,SJA
+Anthem BCBS of Ohio,SJB
+BCBS of Florida,SJC
+Carefirst BCBS of Maryland,SJD
+Anthem BCBS of Ohio,SJE
+Anthem BCBS of Ohio,SJF
+Anthem BCBS of Connecticut,SJG
+BCBS of Rhose Island,SJH
+BCBS of Louisiana,SJI
+Blue Shield of California,SJJ
+BCBS of Arkansas Blue Advantage,SJK
+BCBS of Illinois,SJL
+BCBS of Georgia,SJM
+BCBS of Georgia,SJN
+Anthem Blue Cross of California,SJO
+BCBS of Illinois,SJP
+Carefirst Administrators,SJQ
+Carefirst BCBS of Maryland,SJR
+Carefirst Administrators,SJS
+BCBS of Alabama,SJT
+BCBS of Massachusetts,SJU
+Unassigned Prefix,SJV
+Unassigned Prefix,SJW
+BCBS of North Carolina,SJX
+Blue Shield of California,SJY
+Highmark BCBS,SJZ
+BCBS of Minnesota,SKA
+Independence Blue Cross,SKB
+Unassigned Prefix,SKC
+Independence Blue Cross,SKD
+Blue Shield of Northeastern New York,SKE
+Anthem BCBS of Wisconsin,SKF
+Anthem BCBS of Georgia,SKG
+Independence Blue Cross,SKH
+Anthem BCBS of Georgia,SKI
+Independence Blue Cross,SKJ
+BCBS of Illinois,SKK
+BCBS of Illinois,SKL
+Highmark BCBS,SKM
+BCBS of Texas,SKN
+Premera Blue Cross,SKO
+BCBS of Illinois,SKP
+Anthem BCBS of Ohio,SKQ
+BCBS of Illinois,SKR
+BCBS of Illinois,SKS
+BCBS of Nebraska,SKT
+BCBS of North Carolina,SKU
+Horizon BCBS of New Jersey,SKV
+BCBS of Texas,SKW
+BCBS of Texas,SKX
+BCBS of Illinois,SKY
+Premera Blue Cross,SKZ
+Anthem BCBS of Virginia,SLA
+BCBS of Kansas City,SLB
+BCBS of Illinois,SLC
+Excellus BCBS of New York,SLD
+Anthem BCBS of Colorado,SLE
+Highmark BCBS,SLF
+Anthem Blue Cross of California,SLG
+Premera Blue Cross,SLH
+BCBS of Alabama,SLI
+Regence BCBS of Utah,SLJ
+BCBS of Minnesota,SLK
+BCBS of Delaware,SLL
+Unassigned Prefix,SLM
+BCBS of Minnesota,SLN
+Unassigned Prefix,SLO
+Wellmark BCBS,SLP
+Horizon BCBS of New Jersey,SLQ
+BCBS of Texas,SLR
+BCBS of South Carolina,SLS
+BCBS of Massachusetts,SLT
+BCBS of Western New York,SLU
+Unassigned Prefix,SLV
+BCBS of Western New York,SLW
+Capital Blue Cross,SLX
+BCBS of Nebraska,SLY
+Regence Blue Shield of Washington,SLZ
+BCBS of Nebraska,SMA
+Premera Blue Cross,SMB
+BCBS of Minnesota,SMC
+Anthem BCBS of Indiana,SMD
+Empire BCBS of New York,SME
+Anthem BCBS of Virginia,SMF
+Wellmark BCBS,SMG
+Unassigned Prefix,SMH
+BCBS of Delaware,SMI
+Horizon BCBS of New Jersey,SMJ
+BCBS of Michigan,SMK
+BCBS of Illinois,SML
+Anthem BCBS of Ohio,SMM
+Premera Blue Cross,SMN
+Anthem Blue Cross of California,SMO
+Anthem BCBS of Ohio,SMP
+BCBS of Georgia,SMQ
+Carefirst BCBS of Maryland,SMR
+Wellmark BCBS,SMS
+BCBS of Illinois,SMT
+BCBS of Michigan,SMU
+BCBS of Michigan,SMV
+BCBS of Illinois,SMW
+BCBS of Michigan,SMX
+Wellmark BCBS,SMY
+BCBS of South Carolina,SMZ
+Anthem Blue Cross of California,SNA
+BCBS of Texas,SNB
+Independence Blue Cross,SNC
+Unassigned Prefix,SND
+BCBS of Minnesota,SNE
+Empire BCBS of New York,SNF
+Unassigned Prefix,SNG
+Unassigned Prefix,SNH
+Regence Blue Shield of Washington,SNI
+Horizon BCBS of New Jersey,SNJ
+BCBS of Arizona,SNK
+BCBS of Illinois,SNL
+Anthem Blue Cross of California,SNM
+BCBS of Illinois,SNN
+BCBS of South Carolina,SNO
+BCBS of Minnesota,SNP
+BCBS of Rhose Island,SNQ
+BCBS of Illinois,SNR
+BCBS of Illinois,SNS
+Carefirst Administrators,SNT
+Anthem BCBS of Missouri,SNU
+BCBS of Michigan,SNV
+Wellmark BCBS,SNW
+Anthem Blue Cross of California,SNX
+Unassigned Prefix,SNY
+BCBS of Minnesota,SNZ
+Regence BCBS of Utah,SOA
+BCBS of Michigan,SOB
+Blue Shield of California,SOC
+BCBS of Delaware,SOD
+BCBS of Illinois,SOE
+Anthem BCBS of Ohio,SOF
+BCBS of South Carolina,SOG
+BCBS of Alabama,SOH
+BCBS of Nebraska,SOI
+Independence Blue Cross,SOJ
+Blue Shield of California,SOK
+Independence Blue Cross,SOL
+Anthem Blue Cross of California,SOM
+Blue Shield of California,SON
+Blue Shield of California,SOO
+BCBS of Massachusetts,SOP
+Independence Blue Cross,SOQ
+BCBS of South Carolina,SOR
+BCBS of Florida,SOS
+Unassigned Prefix,SOT
+BCBS of Massachusetts,SOU
+Horizon BCBS of New Jersey,SOV
+Independence Blue Cross,SOW
+BCBS of Nebraska,SOX
+Anthem Blue Cross of California,SOY
+BCBS of South Carolina,SOZ
+BCBS of Kansas,SPA
+BCBS of Tennessee,SPB
+BCBS of Minnesota,SPC
+Anthem BCBS of Ohio,SPD
+Anthem Blue Cross of California,SPE
+Independence Blue Cross,SPF
+Blue Shield of California,SPG
+BCBS of Arizona,SPH
+Anthem Blue Cross of California,SPI
+BCBS of South Carolina,SPJ
+Anthem BCBS of Virginia,SPK
+BCBS of Illinois,SPL
+BCBS of South Carolina,SPM
+BCBS of Texas,SPN
+BCBS of Western New York,SPO
+BCBS of Minnesota,SPP
+BCBS of Illinois,SPQ
+Unassigned Prefix,SPR
+BCBS of Massachusetts,SPS
+BCBS of Minnesota,SPT
+Carefirst BCBS,SPU
+Carefirst Administrators,SPV
+BCBS of Illinois,SPW
+BCBS of Georgia,SPX
+Unassigned Prefix,SPY
+Anthem Blue Cross of California,SPZ
+Unassigned Prefix,SQA
+Unassigned Prefix,SQB
+Anthem BCBS of Ohio,SQC
+Anthem Blue Cross of California,SQD
+BCBS of Minnesota,SQE
+BCBS of Vermont,SQF
+Anthem BCBS of Ohio,SQG
+Anthem BCBS of Ohio,SQH
+Unassigned Prefix,SQI
+Anthem BCBS of Colorado,SQJ
+Anthem Blue Cross of California,SQK
+BCBS of Massachusetts,SQL
+Blue Shield of California,SQM
+Premera Blue Cross,SQN
+BCBS of Michigan,SQO
+Regence BCBS of Utah,SQP
+Blue Cross of Idaho,SQQ
+BCBS of Minnesota,SQR
+Anthem Blue Cross of California,SQS
+Anthem BCBS of Virginia,SQT
+BCBS of South Carolina,SQU
+BCBS of Georgia,SQV
+Horizon BCBS of New Jersey,SQW
+Anthem BCBS of Ohio,SQX
+BCBS of South Carolina,SQY
+Anthem BCBS of Ohio,SQZ
+Horizon BCBS of New Jersey,SRA
+Anthem BCBS of Missouri,SRB
+BCBS of South Carolina,SRC
+Horizon BCBS of New Jersey,SRD
+Unassigned Prefix,SRE
+Highmark BCBS,SRF
+Blue Shield of California,SRG
+Capital Blue Cross,SRH
+Blue Cross of Northeast Pennsylvania,SRI
+Regence BCBS of Oregon,SRJ
+BCBS of Massachusetts,SRK
+BCBS of Western New York,SRL
+Anthem BCBS of Missouri,SRM
+Anthem BCBS of Georgia,SRN
+Excellus BCBS of New York,SRO
+BCBS of South Carolina,SRP
+Anthem Blue Cross of California,SRQ
+BCBS of Georgia,SRR
+BCBS of South Carolina,SRS
+Anthem BCBS of Wisconsin,SRT
+Premera Blue Cross,SRU
+Anthem BCBS of Missouri,SRV
+BCBS of Massachusetts,SRW
+Anthem Blue Cross of California,SRX
+BCBS of Illinois,SRY
+Anthem BCBS of Missouri,SRZ
+Carefirst BCBS of Maryland,SSA
+Unassigned Prefix,SSB
+Regence BCBS of Idaho,SSC
+Blue Shield of California,SSD
+BCBS of Minnesota,SSE
+Anthem BCBS of Missouri,SSF
+Wellmark BCBS,SSG
+BCBS of Illinois,SSH
+BCBS of Minnesota,SSI
+Anthem Blue Cross of California,SSJ
+Empire BCBS of New York,SSK
+Unassigned Prefix,SSL
+Anthem Blue Cross of California,SSM
+Blue Shield of California,SSN
+BCBS of Arizona,SSO
+BCBS of Georgia,SSP
+Blue Cross of Idaho,SSQ
+Carefirst Administrators,SSR
+Regence BCBS of Utah,SSS
+BCBS of Massachusetts,SST
+Anthem Blue Cross of California,SSU
+Anthem BCBS of Ohio,SSV
+BCBS of Montana,SSW
+BCBS of Texas,SSX
+Anthem Blue Cross of California,SSY
+Premera Blue Cross,SSZ
+BCBS of Tennessee,STA
+Premera Blue Cross,STB
+BCBS of Alabama,STC
+Capital Blue Cross,STD
+Wellmark BCBS,STE
+Anthem BCBS of Indiana,STF
+BCBS of Tennessee,STG
+BCBS of Georgia,STH
+BCBS of Texas,STI
+Premera Blue Cross,STJ
+Unassigned Prefix,STK
+BCBS of Tennessee,STL
+Highmark BCBS,STM
+Highmark BCBS,STN
+BCBS of Massachusetts,STO
+BCBS of Texas,STP
+BCBS of Tennessee,STQ
+Anthem BCBS of Ohio,STR
+Capital Blue Shield of California,STS
+BCBS of Tennessee,STT
+Wellmark BCBS,STU
+BCBS of Tennessee,STV
+Carefirst BCBS,STW
+BCBS of Illinois,STX
+Anthem BCBS of Indiana,STY
+BCBS of Florida,STZ
+BCBS of Minnesota,SUA
+Horizon BCBS of New Jersey,SUB
+Horizon BCBS of New Jersey,SUC
+Excellus BCBS of New York,SUD
+BCBS of Nebraska,SUE
+Empire BCBS of New York,SUF
+BCBS of Massachusetts,SUG
+BCBS of North Carolina,SUH
+Anthem BCBS of Ohio,SUI
+Anthem BCBS of Georgia,SUJ
+Wellmark BCBS,SUK
+Wellmark BCBS,SUL
+BCBS of Alabama,SUM
+Anthem BCBS of Iilinois,SUN
+BCBS of Alabama,SUO
+Anthem Blue Cross of California,SUP
+Anthem Blue Cross of California,SUQ
+BCBS of Illinois,SUR
+Excellus BCBS of New York,SUS
+Anthem Blue Cross of California,SUT
+BCBS of South Carolina,SUU
+BCBS of Alabama,SUV
+BCBS of Western New York,SUW
+Horizon BCBS of New Jersey,SUX
+Horizon BCBS of New Jersey,SUY
+Horizon BCBS of New Jersey,SUZ
+BCBS of Minnesota,SVA
+BCBS of Michigan,SVB
+Premera Blue Cross,SVC
+BCBS of Kansas City,SVD
+BCBS of Tennessee,SVE
+Blue Cross of Idaho,SVF
+BCBS of South Carolina,SVG
+BCBS of Minnesota,SVH
+Unassigned Prefix,SVI
+Unassigned Prefix,SVJ
+BCBS of Mississippi,SVK
+BCBS of South Carolina,SVL
+BCBS of Georgia,SVM
+BCBS of North Carolina,SVN
+Blue Shield of California,SVO
+Carefirst BCBS of Maryland,SVP
+BCBS of Oklahoma,SVQ
+Anthem BCBS of Georgia,SVR
+BCBS of Illinois,SVS
+BCBS of Minnesota,SVT
+BCBS of Illinois,SVU
+Capital Blue Cross,SVV
+Unassigned Prefix,SVW
+BCBS of Western New York,SVX
+BCBS of Minnesota,SVY
+Anthem BCBS of Wisconsin,SVZ
+Unassigned Prefix,SWA
+BCBS of Arizona,SWB
+Anthem BCBS of Virginia,SWC
+BCBS of Tennessee,SWD
+Blue Shield of Northeastern New York,SWE
+Blue Shield of California,SWF
+Anthem BCBS of Ohio,SWG
+BCBS of Illinois,SWH
+Anthem BCBS of Georgia,SWI
+BCBS of Illinois,SWJ
+BCBS of Illinois,SWK
+Unassigned Prefix,SWL
+Blue Shield of California,SWM
+Anthem Blue Cross of California,SWN
+Wellmark BCBS,SWO
+Blue Cross of Idaho,SWP
+Wellmark BCBS,SWQ
+Highmark BCBS,SWR
+BCBS of Massachusetts,SWS
+BCBS of Arizona,SWT
+BCBS of Illinois,SWU
+Anthem BCBS of Wisconsin,SWV
+Wellmark BCBS,SWW
+BCBS of North Carolina,SWX
+BCBS of Minnesota,SWY
+Highmark BCBS,SWZ
+BCBS of Oklahoma,SXA
+Wellmark BCBS,SXB
+Anthem BCBS of Ohio,SXC
+Blue Shield of California,SXD
+Anthem BCBS of Ohio,SXE
+BCBS of Alabama,SXF
+Anthem Blue Cross of California,SXG
+Blue Shield of California,SXH
+Anthem BCBS of Ohio,SXI
+Anthem Blue Cross of California,SXJ
+Empire BCBS of New York,SXK
+Horizon BCBS of New Jersey,SXL
+Blue Shield of California,SXM
+Regence Blue Cross Blue Shield of Oregon,SXN
+BCBS of Michigan,SXO
+BCBS of Georgia,SXP
+Anthem BCBS of Ohio,SXQ
+BCBS of Illinois,SXR
+Regence BCBS,SXS
+Carefirst Administrators,SXT
+Blue Shield of California,SXU
+BCBS of Western New York,SXV
+BCBS of Texas,SXW
+BCBS of Illinois,SXX
+BCBS of Massachusetts,SXY
+Anthem Blue Cross of California,SXZ
+Carefirst BCBS of Maryland,SYA
+BCBS of Illinois,SYB
+Anthem BCBS of Ohio,SYC
+BCBS of Arizona,SYD
+BCBS of South Carolina,SYE
+BCBS of Alabama,SYF
+BCBS of Minnesota,SYG
+BCBS of Minnesota,SYH
+BCBS of Minnesota,SYI
+Wellmark BCBS,SYJ
+Regence BCBS of Idaho,SYK
+Unassigned Prefix,SYL
+Carefirst BCBS of Maryland,SYM
+Unassigned Prefix,SYN
+BCBS of Michigan,SYO
+Anthem Blue Cross of California,SYP
+BCBS of Michigan,SYQ
+Highmark BCBS,SYR
+Highmark BCBS,SYS
+BCBS of Tennessee,SYT
+BCBS of Massachusetts,SYU
+Unassigned Prefix,SYV
+BCBS of Tennessee,SYW
+BCBS of Alabama,SYX
+BCBS of Illinois,SYY
+Premera Blue Cross,SYZ
+Independence Blue Cross,SZA
+Regence Blue Cross Blue Shield of Oregon,SZB
+BCBS of Illinois,SZC
+BCBS of Massachusetts,SZD
+BCBS of Illinois,SZE
+BCBS of Illinois,SZF
+Blue Cross of Idaho,SZG
+Anthem BCBS of Virginia,SZH
+Anthem BCBS of Georgia,SZI
+BCBS of Delaware,SZJ
+Wellmark BCBS,SZK
+Carefirst Administrators,SZL
+Highmark BCBS,SZM
+BCBS of Nebraska,SZN
+Blue Shield of Northeastern New York,SZO
+Premera Blue Cross,SZP
+Anthem BCBS of Ohio,SZQ
+Premera Blue Cross,SZR
+Anthem BCBS of Ohio,SZS
+BCBS of Massachusetts,SZT
+BCBS of Texas,SZU
+Unassigned Prefix,SZV
+Anthem BCBS of Georgia,SZW
+Premera Blue Cross,SZX
+Anthem Blue Cross of California,SZY
+Independence Blue Cross,SZZ

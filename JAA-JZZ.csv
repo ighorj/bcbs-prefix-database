@@ -1,0 +1,706 @@
+BCBS_Name,Acronym
+Highmark BCBS of Pennsylvania,J2A
+Regence Blue Cross Blue Shield of Oregon,J2B
+Blue Cross Blue Shield of Illinois,J2F
+Blue Cross Blue Shield of Illinois,J2G
+Empire Blue Cross Blue Shield,J2M
+Blue Cross Blue Shield of Georgia,J2N
+Blue Cross Blue Shield of Texas,J2P
+Unassigned Prefix,J2U
+Blue Cross Blue Shield of Illinois,J3A
+Regence Blue Cross Blue Shield of Oregon,J3B
+Blue Cross Blue Shield of Georgia,J3N
+Blue Shield of Northeastern New York,J3S
+Blue Cross Blue Shield of Illinois,J4A
+Anthem BCBS of Colorado,J4M
+Blue Cross Blue Shield of Georgia,J4N
+Anthem BCBS of Ohio,J5L
+Unassigned Prefix,J5R
+Florida Blue,J6H
+Unassigned Prefix,J6J
+Anthem BCBS of Colorado,J6M
+Florida Blue,J6P
+Blue Cross Blue Shield of Illinois,J8M
+Blue Shield of California,JAA
+Blue Shield of California,JAB
+Blue Shield of California,JAC
+Blue Shield of California,JAD
+Unassigned Prefix,JAE
+Unassigned Prefix,JAF
+Unassigned Prefix,JAG
+Anthem Blue Cross of California,JAH
+Unassigned Prefix,JAI
+Unassigned Prefix,JAJ
+BCBS of Western New York,JAK
+Wellmark BCBS,JAL
+BCBS of Massachusetts,JAM
+Unassigned Prefix,JAN
+Independence Blue Cross,JAO
+Unassigned Prefix,JAP
+Highmark BCBS of Pennsylvania,JAQ
+Carefirst BCBS,JAR
+Unassigned Prefix,JAS
+Anthem BCBS of Ohio,JAT
+Anthem BCBS of Ohio,JAU
+Unassigned Prefix,JAV
+Unassigned Prefix,JAW
+Unassigned Prefix,JAX
+Unassigned Prefix,JAY
+Blue Shield of California,JAZ
+Unassigned Prefix,JBA
+Anthem BCBS of Colorado,JBB
+Carefirst BCBS of Maryland,JBC
+Empire BCBS of New York,JBD
+Anthem Blue Cross of California,JBE
+BCBS of Arkansas,JBF
+Blue Shield of California,JBG
+Anthem BCBS of Ohio,JBH
+BCBS of Arkansas,JBI
+BCBS of Arkansas,JBJ
+BCBS of Arkansas,JBK
+BCBS of North Carolina,JBL
+BCBS of Arkansas - Blue Advantage Administrators,JBM
+BCBS of Illinois,JBN
+Capital Blue Cross,JBO
+BCBS of Texas,JBP
+Anthem BCBS of Colorado,JBQ
+BCBS of Massachusetts,JBR
+Anthem Blue Cross of California,JBS
+Independence Blue Cross,JBT
+Unassigned Prefix,JBU
+Unassigned Prefix,JBV
+Anthem BCBS of Ohio,JBW
+Anthem BCBS of Ohio,JBX
+BCBS of Arkansas,JBY
+Anthem BCBS of Georgia,JBZ
+BCBS of Illinois,JCA
+BCBS of Massachusetts,JCB
+Anthem Blue Cross of California,JCC
+Regence BCBS of Oregon,JCD
+BCBS of Illinois,JCE
+BCBS of Massachusetts,JCF
+Empire BCBS of New York,JCG
+BCBS of Illinois,JCH
+Blue Shield of California,JCI
+Blue Shield of Northeastern New York,JCJ
+Anthem BCBS of Ohio,JCK
+Anthem BCBS of Missouri,JCL
+Anthem BCBS of New Hampshire,JCM
+Premera BCBS of Alaska,JCN
+BCBS of Minnesota,JCO
+BCBS of Alabama,JCP
+BCBS of Vermont,JCQ
+BCBS of Massachusetts,JCR
+Anthem BCBS of Missouri,JCS
+Anthem BCBS of Nevada,JCT
+BCBS of Massachusetts,JCU
+Anthem BCBS of Colorado,JCV
+BCBS of Arkansas - Blue Advantage Administrators,JCW
+BCBS of Texas,JCX
+BCBS of Texas,JCY
+Anthem BCBS of Ohio,JCZ
+Anthem Blue Cross of California,JDA
+Anthem Blue Cross of California,JDB
+Anthem BCBS of Georgia,JDC
+Anthem Blue Cross of California,JDD
+Regence BCBS of Oregon,JDE
+BCBS of Illinois,JDF
+Anthem Blue Cross of California,JDG
+BCBS of Tennessee,JDH
+BCBS of Western New York,JDI
+Horizon BCBS of New Jersey,JDJ
+BCBS of Illinois,JDK
+BCBS of Tennessee,JDL
+Anthem BCBS of Georgia,JDM
+Anthem BCBS of Ohio,JDN
+Carefirst BCBS,JDO
+Anthem BCBS of Nevada,JDP
+Carefirst BCBS,JDQ
+Carefirst BCBS,JDR
+Anthem Blue Cross of California,JDS
+BCBS of Alabama,JDT
+Horizon BCBS of New Jersey,JDU
+Anthem BCBS of Ohio,JDV
+Anthem BCBS of Wisconsin,JDW
+Anthem BCBS of Wisconsin,JDX
+BCBS of Illinois,JDY
+BCBS of Massachusetts,JDZ
+Horizon BCBS of New Jersey,JEA
+Anthem Blue Cross of California,JEB
+Anthem BCBS of Virginia,JEC
+Premera BCBS of Alaska,JED
+Horizon BCBS of New Jersey,JEE
+Carefirst BCBS,JEF
+Unassigned Prefix,JEG
+Empire BCBS of New York,JEH
+Carefirst BCBS,JEI
+Horizon BCBS of New Jersey,JEJ
+Unassigned Prefix,JEK
+BCBS of Western New York,JEL
+Anthem BCBS of Georgia,JEM
+BCBS of Massachusetts,JEN
+Carefirst BCBS,JEO
+Anthem BCBS of Nevada,JEP
+Carefirst BCBS,JEQ
+Unassigned Prefix,JER
+Empire BCBS of New York,JES
+BCBS of Texas,JET
+Anthem BCBS of Ohio,JEU
+BCBS of Massachusetts,JEV
+Unassigned Prefix,JEW
+Anthem Blue Cross of California,JEX
+Carefirst BCBS,JEY
+BCBS of Illinois,JEZ
+Unassigned Prefix,JFA
+Anthem Blue Cross of California,JFB
+BCBS of Texas,JFC
+Unassigned Prefix,JFD
+Independence Blue Cross,JFE
+Unassigned Prefix,JFF
+Unassigned Prefix,JFG
+Anthem BCBS of Colorado,JFH
+Unassigned Prefix,JFI
+Carefirst BCBS,JFJ
+Carefirst BCBS,JFK
+Unassigned Prefix,JFL
+Anthem BCBS of Ohio,JFM
+Carefirst BCBS,JFN
+Carefirst BCBS,JFO
+Anthem BCBS of Nevada,JFP
+Carefirst BCBS,JFQ
+Empire BCBS of New York,JFR
+Anthem BCBS of Georgia,JFS
+Carefirst BCBS,JFT
+Anthem BCBS of Georgia,JFU
+Anthem BCBS of Ohio,JFV
+BCBS of Illinois,JFW
+Horizon BCBS of New Jersey,JFX
+Horizon BCBS of New Jersey,JFY
+CareFirst BCBS,JFZ
+Unassigned Prefix,JG3
+Horizon BCBS of New Jersey,JGA
+Horizon BCBS of New Jersey,JGB
+Horizon BCBS of New Jersey,JGC
+Horizon BCBS of New Jersey,JGD
+Horizon BCBS of New Jersey,JGE
+Horizon BCBS of New Jersey,JGF
+Horizon BCBS of New Jersey,JGG
+Horizon BCBS of New Jersey,JGH
+Horizon BCBS of New Jersey,JGI
+Horizon BCBS of New Jersey,JGJ
+Horizon BCBS of New Jersey,JGK
+Horizon BCBS of New Jersey,JGL
+Horizon BCBS of New Jersey,JGM
+Horizon BCBS of New Jersey,JGN
+Horizon BCBS of New Jersey,JGO
+Horizon BCBS of New Jersey,JGP
+Horizon BCBS of New Jersey,JGQ
+Horizon BCBS of New Jersey,JGR
+Horizon BCBS of New Jersey,JGS
+Horizon BCBS of New Jersey,JGT
+Horizon BCBS of New Jersey,JGU
+Horizon BCBS of New Jersey,JGV
+Horizon BCBS of New Jersey,JGW
+Horizon BCBS of New Jersey,JGX
+Horizon BCBS of New Jersey,JGY
+Horizon BCBS of New Jersey,JGZ
+Carefirst BCBS of Maryland,JHA
+Carefirst BCBS of Maryland,JHB
+Carefirst BCBS of Maryland,JHC
+Carefirst BCBS of Maryland,JHD
+Carefirst BCBS of Maryland,JHE
+Wellmark BCBS,JHF
+Carefirst BCBS of Maryland,JHG
+Carefirst BCBS of Maryland,JHH
+Carefirst BCBS of Maryland,JHI
+Carefirst BCBS of Maryland,JHJ
+Unassigned Prefix,JHK
+Unassigned Prefix,JHL
+Anthem BCBS of Ohio,JHM
+Anthem Blue Cross of California,JHN
+BCBS of North Carolina,JHO
+Anthem Blue Cross of California,JHP
+Anthem BCBS of Colorado,JHQ
+BCBS of Massachusetts,JHR
+Unassigned Prefix,JHS
+Anthem Blue Cross of California,JHT
+BCBS of Illinois,JHU
+Unassigned Prefix,JHV
+Anthem BCBS of Ohio,JHW
+Anthem Blue Cross of California,JHX
+BCBS of Texas,JHY
+Carefirst BCBS of Maryland,JHZ
+BCBS of Northeastern New York,JIA
+Carefirst BCBS,JIB
+Blue Shield of California,JIC
+Anthem BCBS of Colorado,JID
+Carefirst BCBS,JIE
+BCBS of Rhode Island,JIF
+Carefirst BCBS,JIG
+Anthem BCBS of Colorado,JIH
+Highmark Blue Shield,JII
+Highmark Blue Shield,JIJ
+Highmark BCBS,JIK
+BCBS of Alabama,JIL
+Carefirst BCBS,JIM
+Anthem BCBS of Ohio,JIN
+BCBS of Florida,JIO
+Anthem BCBS of Colorado,JIP
+BCBS of Michigan,JIQ
+BCBS of Michigan,JIR
+Anthem BCBS of Georgia,JIS
+BCBS of Michigan,JIT
+Anthem BCBS of Georgia,JIU
+Anthem BCBS of Georgia,JIV
+Independence Blue Cross,JIW
+Anthem Blue Cross of California,JIX
+BCBS of Michigan,JIY
+Anthem BCBS of Maine,JIZ
+Regence BCBS of Washington,JJA
+Empire BCBS of New York,JJB
+Regence BCBS of Washington,JJC
+BCBS of South Carolina,JJD
+Anthem BCBS of Nevada,JJE
+BCBS of Illinois,JJF
+Independence Blue Cross,JJG
+Anthem BCBS of Georgia,JJH
+Unassigned Prefix,JJI
+Anthem BCBS of Ohio,JJJ
+Empire BCBS,JJK
+Independence Blue Cross,JJL
+Anthem BCBS of Ohio,JJM
+BCBS of Illinois,JJN
+Anthem BCBS of Ohio,JJO
+Anthem BCBS of Nevada,JJP
+Carefirst BCBS,JJQ
+BCBS of Massachusetts,JJR
+Anthem BCBS of Georgia,JJS
+Anthem Blue Cross of California,JJT
+Anthem BCBS of Georgia,JJU
+Carefirst BCBS,JJV
+Anthem BCBS of Ohio,JJW
+BCBS of Massachusetts,JJX
+Anthem BCBS of Indiana,JJY
+Anthem Blue Cross of California,JJZ
+Anthem BCBS of Kentucky,JKA
+BCBS of Illinois,JKB
+Unassigned Prefix,JKC
+BCBS of Illinois,JKD
+Carefirst BCBS,JKE
+Anthem BCBS of Georgia,JKF
+Anthem BCBS of Georgia,JKG
+Unassigned Prefix,JKH
+Unassigned Prefix,JKI
+Carefirst BCBS,JKJ
+Anthem BCBS of New Hampshire,JKK
+Anthem BCBS of Georgia,JKL
+Anthem BCBS of Virginia,JKM
+Anthem Blue Cross of California,JKN
+Unassigned Prefix,JKO
+Anthem BCBS of Nevada,JKP
+Anthem BCBS of Wisconsin,JKQ
+Unassigned Prefix,JKR
+Anthem BCBS of Wisconsin,JKS
+Anthem BCBS of Virginia,JKT
+Anthem BCBS of Virginia,JKU
+Carefirst BCBS,JKV
+Anthem BCBS of Virginia,JKW
+Carefirst BCBS,JKX
+Carefirst BCBS,JKY
+BCBS of Vermont,JKZ
+Anthem BCBS of Colorado,JLA
+Empire BCBS of New York,JLB
+Empire BCBS of New York,JLC
+Empire BCBS of New York,JLD
+Empire BCBS of New York,JLE
+Empire BCBS of New York,JLF
+BCBS of Alabama,JLG
+Empire BCBS,JLH
+Empire BCBS of New York,JLI
+Empire BCBS,JLJ
+Empire BCBS of New York,JLK
+Anthem BCBS of Ohio,JLL
+Unassigned Prefix,JLM
+BCBS of Alabama,JLN
+Anthem Blue Cross of California,JLO
+Anthem BCBS of Nevada,JLP
+Unassigned Prefix,JLQ
+Anthem Blue Cross of California,JLR
+Anthem BCBS of Wisconsin,JLS
+Blue Shield of Northeastern New York,JLT
+Anthem BCBS of Ohio,JLU
+Unassigned Prefix,JLV
+Unassigned Prefix,JLW
+BCBS of Illinois,JLX
+Empire BCBS,JLY
+Anthem BCBS of Wisconsin,JLZ
+Carefirst BCBS,JMA
+BCBS of Massachusetts,JMB
+Wellmark BCBS,JMC
+Unassigned Prefix,JMD
+Anthem BCBS of Colorado,JME
+Anthem BCBS of Georgia,JMF
+BCBS of Alabama,JMG
+Anthem BCBS of Maine,JMH
+Carefirst BCBS,JMI
+BCBS of Illinois,JMJ
+BCBS of Western New York,JMK
+BCBS of Western New York,JML
+Anthem BCBS of Georgia,JMM
+BCBS of Texas,JMN
+Unassigned Prefix,JMO
+Empire BCBS,JMP
+BCBS of Rhode Island,JMQ
+Carefirst BCBS,JMR
+Anthem BCBS of Ohio,JMS
+BCBS of Massachusetts,JMT
+Anthem BCBS of Ohio,JMU
+Anthem Blue Cross of California,JMV
+Independence Blue Cross,JMW
+Unassigned Prefix,JMX
+Unassigned Prefix,JMY
+BCBS of Illinois,JMZ
+BCBS of  Texas,JNA
+Premera BCBS of Alaska,JNB
+BCBS of Texas,JNC
+BCBS of Illinois,JND
+Anthem BCBS of Ohio,JNE
+Carefirst BCBS,JNF
+Carefirst BCBS,JNG
+Anthem BCBS of Ohio,JNH
+Anthem BCBS of Nevada,JNI
+BCBS of Massachusetts,JNJ
+BCBS of Massachusetts,JNK
+Blue Shield of California,JNL
+BCBS of Illinois,JNM
+BCBS of Illinois,JNN
+Unassigned Prefix,JNO
+Anthem BCBS of Connecticut,JNP
+Unassigned Prefix,JNQ
+Carefirst BCBS,JNR
+BCBS of Georgia,JNS
+BCBS of Massachusetts,JNT
+Anthem BCBS of Colorado,JNU
+Unassigned Prefix,JNV
+BCBS of Illinois,JNW
+Anthem BCBS of Nevada,JNX
+Unassigned Prefix,JNY
+Carefirst BCBS,JNZ
+BCBS of Western New York,JOA
+Unassigned Prefix,JOB
+Unassigned Prefix,JOC
+Anthem Blue Cross of California,JOD
+Unassigned Prefix,JOE
+Highmark BCBS,JOF
+Regence BCBS of Oregon,JOG
+Anthem BCBS of Wisconsin,JOH
+Anthem BCBS of Wisconsin,JOI
+Anthem BCBS of Wisconsin,JOJ
+BCBS of Western New York,JOK
+Highmark BCBS,JOL
+Anthem BCBS of Ohio,JOM
+BCBS of North Dakota,JON
+Carefirst BCBS,JOO
+Highmark BCBS,JOP
+Carefirst BCBS,JOQ
+Unassigned Prefix,JOR
+Anthem BCBS of Ohio,JOS
+BCBS of Western New York,JOT
+Unassigned Prefix,JOU
+Carefirst BCBS,JOV
+BCBS of Rhode Island,JOW
+Anthem BCBS of Missouri,JOX
+BCBS of Rhode Island,JOY
+BCBS of Michigan,JOZ
+Blue Shield of California,JPA
+BCBS of Minnesota,JPB
+Empire BCBS of New York,JPC
+Unassigned Prefix,JPD
+Anthem BCBS of Nevada,JPE
+Anthem BCBS of Nevada,JPF
+Empire BCBS,JPG
+Anthem BCBS of Georgia,JPH
+Blue Shield of California,JPI
+Unassigned Prefix,JPJ
+Unassigned Prefix,JPK
+Unassigned Prefix,JPL
+Anthem Blue Cross of California,JPM
+Anthem BCBS of Nevada,JPN
+Independence Blue Cross,JPO
+Anthem BCBS of Georgia,JPP
+Unassigned Prefix,JPQ
+Unassigned Prefix,JPR
+Anthem BCBS of Missouri,JPS
+Anthem BCBS of Indiana,JPT
+Anthem Blue Cross of California,JPU
+Empire BCBS,JPV
+Independence Blue Cross,JPW
+Anthem Blue Cross of California,JPX
+Anthem Blue Cross of California,JPY
+Unassigned Prefix,JPZ
+Anthem Blue Cross of California,JQA
+Anthem Blue Cross of California,JQB
+Anthem Blue Cross of California,JQC
+Anthem Blue Cross of California,JQD
+Anthem Blue Cross of California,JQE
+Anthem Blue Cross of California,JQF
+Anthem Blue Cross of California,JQG
+Anthem Blue Cross of California,JQH
+Anthem Blue Cross of California,JQI
+Anthem Blue Cross of California,JQJ
+Anthem Blue Cross of California,JQK
+Anthem Blue Cross of California,JQL
+Anthem Blue Cross of California,JQM
+Anthem Blue Cross of California,JQN
+Anthem Blue Cross of California,JQO
+Anthem Blue Cross of California,JQP
+Anthem Blue Cross of California,JQQ
+Anthem Blue Cross of California,JQR
+Anthem Blue Cross of California,JQS
+Anthem Blue Cross of California,JQT
+Anthem Blue Cross of California,JQU
+Anthem Blue Cross of California,JQV
+Anthem Blue Cross of California,JQW
+BCBS of Western New York,JQX
+Anthem Blue Cross of California,JQY
+Anthem Blue Cross of California,JQZ
+BCBS of Georgia,JRA
+BCBS of Georgia,JRB
+BCBS of Georgia,JRC
+Anthem BCBS of Georgia,JRD
+BCBS of Georgia,JRE
+Anthem BCBS of Georgia,JRF
+Independence Blue Cross,JRG
+Unassigned Prefix,JRH
+Anthem BCBS of Ohio,JRI
+BCBS of Georgia,JRJ
+Carefirst BCBS,JRK
+Carefirst BCBS,JRL
+Carefirst BCBS,JRM
+Empire BCBS,JRN
+BCBS of Tennessee,JRO
+Anthem BCBS of Colorado,JRP
+Anthem Blue Cross of California,JRQ
+Blue Shield of California,JRR
+Anthem BCBS of Ohio,JRS
+Unassigned Prefix,JRT
+Carefirst BCBS,JRU
+Anthem BCBS of Georgia,JRV
+Carefirst BCBS,JRW
+Unassigned Prefix,JRX
+Carefirst BCBS,JRY
+Anthem Blue Cross of California,JRZ
+BCBS of Illinois,JSA
+BCBS of Massachusetts,JSB
+Carefirst BCBS,JSC
+Anthem BCBS of Georgia,JSD
+Blue Shield of Northeastern New York,JSE
+Unassigned Prefix,JSF
+BCBS of Rhode Island,JSG
+BCBS of Massachusetts,JSH
+Independence Blue Cross,JSI
+Anthem BCBS of Georgia,JSJ
+BCBS of Texas,JSK
+Highmark BCBS of Delaware,JSL
+Highmark BCBS,JSM
+BCBS of Texas,JSN
+BCBS of Western New York,JSO
+Anthem BCBS of Georgia,JSP
+Premera BCBS of Alaska,JSQ
+BCBS of Western New York,JSR
+Blue Shield of Northeastern New York,JSS
+BCBS of Illinois,JST
+Anthem BCBS of Georgia,JSU
+BCBS of Alabama,JSV
+Unassigned Prefix,JSW
+Anthem BCBS of Missouri,JSX
+Anthem BCBS of Missouri,JSY
+BCBS of Illinois,JSZ
+Empire BCBS,JTA
+Anthem BCBS of Virginia,JTB
+BCBS of Texas,JTC
+Anthem BCBS of Missouri,JTD
+BCBS of Massachusetts,JTE
+Anthem BCBS of Nevada,JTF
+Anthem BCBS of Georgia,JTG
+BCBS of Illinois,JTH
+Carefirst BCBS,JTI
+Unassigned Prefix,JTJ
+Unassigned Prefix,JTK
+Anthem BCBS of Nevada,JTL
+Anthem BCBS of Connecticut,JTM
+Premera BCBS of Alaska,JTN
+BCBS of Rhode Island,JTO
+Anthem BCBS of Colorado,JTP
+Anthem BCBS of Nevada,JTQ
+Carefirst BCBS,JTR
+BCBS of Illinois,JTS
+Unassigned Prefix,JTT
+Anthem BCBS of Ohio,JTU
+Anthem BCBS of Indiana,JTV
+Anthem BCBS of Virginia,JTW
+Carefirst BCBS,JTX
+Unassigned Prefix,JTY
+BCBS of Illinois,JTZ
+Highmark BCBS,JUA
+BCBS of Massachusetts,JUB
+Highmark BCBS,JUC
+Highmark BCBS,JUD
+Highmark BCBS,JUE
+Highmark BCBS,JUF
+Anthem BCBS of Georgia,JUG
+Highmark BCBS,JUH
+BCBS of Michigan,JUI
+Highmark BCBS,JUJ
+Highmark BCBS,JUK
+Highmark BCBS,JUL
+Highmark BCBS,JUM
+BCBS of Illinois,JUN
+BCBS of Michigan,JUO
+Highmark BCBS,JUP
+Highmark BCBS,JUQ
+Highmark BCBS,JUR
+Highmark BCBS,JUS
+Highmark BCBS,JUT
+BCBS of Illinois,JUU
+BCBS of Florida,JUV
+Anthem BCBS of Georgia,JUW
+Anthem BCBS of Georgia,JUX
+Anthem Blue Cross of California,JUY
+Carefirst BCBS,JUZ
+BCBS of Texas,JVA
+BCBS of Illinois,JVB
+Anthem BCBS of Ohio,JVC
+BCBS of Illinois,JVD
+BCBS of Illinois,JVE
+Regence BCBS of Oregon,JVF
+Carefirst BCBS,JVG
+BCBS of Oklahoma,JVH
+Unassigned Prefix,JVI
+BCBS of Illinois,JVJ
+Horizon BCBS of New Jersey,JVK
+Horizon BCBS of New Jersey,JVL
+Empire BCBS,JVM
+BCBS of Texas,JVN
+Carefirst BCBS,JVO
+Anthem BCBS of Maine,JVP
+BCBS of Alabama,JVQ
+Carefirst BCBS,JVR
+Empire BCBS,JVS
+Independence Blue Cross,JVT
+Anthem BCBS of Nevada,JVU
+Unassigned Prefix,JVV
+BCBS of Illinois,JVW
+Unassigned Prefix,JVX
+BCBS of Texas,JVY
+Unassigned Prefix,JVZ
+Anthem BCBS of Missouri,JWA
+Anthem BCBS of Missouri,JWB
+Anthem BCBS of Missouri,JWC
+Anthem BCBS of Missouri,JWD
+Anthem BCBS of Missouri,JWE
+Anthem BCBS of Missouri,JWF
+Anthem BCBS of Missouri,JWG
+Anthem BCBS of Missouri,JWH
+BCBS of North Carolina,JWI
+Anthem BCBS of Ohio,JWJ
+HIX - on exchange,855-854-1438
+Anthem BCBS of Missouri,JWK
+Anthem BCBS of Missouri,JWL
+Anthem BCBS of Missouri,JWM
+Anthem BCBS of Missouri,JWN
+Anthem BCBS of Missouri,JWO
+Anthem BCBS of Missouri,JWP
+Anthem BCBS of Ohio,JWQ
+HIX - off exchange,855-854-1438
+Anthem BCBS of Ohio,JWR
+HIX - on exchange,855-854-1438
+Anthem BCBS of Ohio,JWS
+Anthem BCBS of Ohio,JWT
+HIX - off exchange,855-854-1438
+Anthem BCBS of Missouri,JWU
+Anthem BCBS of Ohio,JWV
+HIX - on exchange,855-854-1438
+Anthem BCBS of Missouri,JWW
+Empire BCBS,JWX
+Unassigned Prefix,JWY
+Unassigned Prefix,JWZ
+Unassigned Prefix,JX3
+BCBS of Texas,JXA
+BCBS of Michigan,JXB
+BCBS of Michigan,JXC
+BCBS of Michigan,JXD
+BCBS of Michigan,JXE
+Unassigned Prefix,JXF
+Unassigned Prefix,JXG
+Anthem BCBS of New Hampshire,JXH
+BCBS of Michigan,JXI
+Anthem Blue Cross of California,JXJ
+Anthem BCBS of Missouri,JXK
+Independence Blue Cross,JXL
+BCBS of Michigan,JXM
+Anthem Blue Cross of California,JXN
+Carefirst BCBS,JXO
+BCBS of Michigan,JXP
+Anthem BCBS of Georgia,JXQ
+Carefirst BCBS,JXR
+BCBS of Michigan,JXS
+BCBS of Michigan,JXT
+Anthem BCBS of Georgia,JXU
+Anthem Blue Cross of California,JXV
+Horizon BCBS of New Jersey,JXW
+Unassigned Prefix,JXX
+Blue Shield of Northeastern New York,JXY
+Anthem BCBS of Ohio,JXZ
+BCBS of Texas,JYA
+BCBS of Illinois,JYB
+Anthem Blue Cross of California,JYC
+BCBS of Illinois,JYD
+Empire BCBS,JYE
+Carefirst BCBS,JYF
+Unassigned Prefix,JYG
+Anthem BCBS of Colorado,JYH
+BCBS of Michigan,JYI
+Blue Shield of Northeastern New York,JYJ
+Anthem Blue Cross of California,JYK
+Carefirst BCBS,JYL
+Anthem BCBS of Ohio,JYM
+BCBS of New Mexico,JYN
+Carefirst BCBS,JYO
+Unassigned Prefix,JYP
+BCBS of Rhode Island,JYQ
+Anthem BCBS of Missouri,JYR
+Premera BCBS of Alaska,JYS
+BCBS of Texas,JYT
+Anthem BCBS of Colorado,JYU
+Anthem BCBS of Indiana,JYV
+BCBS of Illinois,JYW
+BCBS of Western New York,JYX
+BCBS of Illinois,JYY
+BCBS of Illinois,JYZ
+BCBS of Minnesota,JZA
+BCBS of Minnesota,JZB
+BCBS of Minnesota,JZC
+BCBS of Minnesota,JZD
+BCBS of Minnesota,JZE
+BCBS of Minnesota,JZF
+BCBS of Minnesota,JZG
+BCBS of Minnesota,JZH
+BCBS of Minnesota,JZI
+BCBS of Minnesota,JZJ
+BCBS of Minnesota,JZK
+BCBS of Minnesota,JZL
+BCBS of Minnesota,JZM
+Unassigned Prefix,JZN
+BCBS of Minnesota,JZO
+BCBS of Minnesota,JZP
+BCBS of Minnesota,JZQ
+BCBS of Minnesota,JZR
+BCBS of Minnesota,JZS
+BCBS of Minnesota,JZT
+BCBS of Minnesota,JZU
+BCBS of Minnesota,JZV
+BCBS of Minnesota,JZW
+BCBS of Minnesota,JZX
+BCBS of Minnesota,JZY
+BCBS of Minnesota,JZZ
