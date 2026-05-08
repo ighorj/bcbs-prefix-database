@@ -36,10 +36,10 @@ Key steps:
 - Remove noise (phone numbers, metadata)
 - Validate prefix format (3-character alphanumeric)
 
-## Why I built this ?
+## Why that was built ?
 
 
-I built this project after repeatedly seeing how often **BCBS prefixes are misidentified in real-world workflows** — especially in companies that are integrating AI into their intake and insurance verification processes.
+The project was built after repeatedly seeing how often **BCBS prefixes are misidentified in real-world workflows** — especially in companies that are integrating AI into their intake and insurance verification processes.
 
 In practice, clinics and front-desk staff frequently enter the wrong BCBS location. And not just occasionally — it happens a lot. The issue is that “BCBS” isn’t a single entity. Each three-character prefix corresponds to a specific regional payer, and that distinction matters for eligibility checks, claims routing, reimbursement logic, and downstream automation.
 
